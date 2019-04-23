@@ -4,12 +4,8 @@ This repository provides resources for semantic parsing, including benchmark dat
 
 Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@iscas.ac.cn) if you have any questions.
 
-Datasets file contains benchmark datasets used in semantic parsing.
+## PhD theses
+1. **Using Inductive Logic Programming to Automate the Construction of Natural Language Parsers.**
+*John M. Zelle*, advisor: *Raymond J. Mooney*. The University of Texas at Austin. 1996.
 
-Papers file contains papers about semantic parsing.
-
-Tutorials file contains tutorials about semantic parsing.
-
-PhD Theses file contains PhD theses about semantic parsing.
-
-Framework Tools file contains semantic parsing tools or frameworks.
+1. ****

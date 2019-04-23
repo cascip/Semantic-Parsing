@@ -14,7 +14,7 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 1. **[Learning for Semantic Parsing with Kernels under Various Forms of Supervision.](http://www.cs.utexas.edu/users/ml/papers/Rohit_Kate_dissertation.pdf)** [slides](http://www.cs.utexas.edu/users/ml/slides/ge-thesis.ppt).
 *Rohit J. Kate*, advisor: *Raymond J. Mooney*. The University of Texas at Austin. 2007.
 
-1. **[Learning for Semantic Parsing and Natural Language Generation Using Statistical Machine Translation Techniques.](http://www.cs.utexas.edu/users/ml/papers/john-dissertation.pdf)** [slides](http://www.cs.utexas.edu/users/ml/slides/kate-thesis.ppt).
+1. **[Learning for Semantic Parsing and Natural Language Generation Using Statistical Machine Translation Techniques.]**[[paper](http://www.cs.utexas.edu/users/ml/papers/john-dissertation.pdf)] [[slides](http://www.cs.utexas.edu/users/ml/slides/kate-thesis.ppt)].
 *Yuk Wah Wong*, advisor: *Raymond J. Mooney*. The University of Texas at Austin. 2007.
 
 1. **[Learning for Semantic Parsing Using Statistical Syntactic Parsing Techniques.](http://www.cs.utexas.edu/users/ml/papers/ge_dissertation.pdf)** [slides](http://www.cs.utexas.edu/users/ml/slides/ge-thesis.ppt).

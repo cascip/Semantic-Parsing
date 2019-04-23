@@ -5,7 +5,8 @@ This repository provides resources for semantic parsing, including benchmark dat
 Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@iscas.ac.cn) if you have any questions.
 
 ## PhD theses
-1. **Using Inductive Logic Programming to Automate the Construction of Natural Language Parsers.**
-*John M. Zelle*, advisor: *Raymond J. Mooney*. The University of Texas at Austin. 1996.
+1. **Using Inductive Logic Programming to Automate the Construction of Natural Language Parsers.(http://www.cs.utexas.edu/~ml/papers/chill-dissertation-95.pdf)**
+
+*John M. Zelle*, advisor: *Raymond J. Mooney*. The University of Texas at Austin. 1995.
 
 1. ****

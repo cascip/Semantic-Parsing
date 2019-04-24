@@ -4,8 +4,22 @@ This repository provides resources for semantic parsing, including benchmark dat
 
 Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@iscas.ac.cn) if you have any questions.
 
-## PhD theses
+## Tutorials about Semantic Parsing
+(ordered by year)
+1. **Neural Semantic Parsing**  
+[[slides](https://github.com/allenai/acl2018-semantic-parsing-tutorial)]  
+**Pradeep Dasigi, Srini Iyer, Alane Suhr, Matt Gardner, Luke Zettlemoyer.** ACL-2018.
 
+1. **Semantic Parsing with Combinatory Categorial Grammars**  
+[[slides](https://yoavartzi.com/pub/afz-tutorial.acl.2013.pdf)]  [[website](https://yoavartzi.com/tutorial/)]   
+**Yoav Artzi, Nicholas FitzGerald and Luke Zettlemoyer.** ACL-2013, EMNLP-2014, AAAI-2015.
+
+1. **Semantic Parsing: The Task, the State of the Art and the Future**  
+[[slides](http://www.cs.utexas.edu/~ml/slides/semantic-parsing-tutorial-acl10.ppt)]  
+**Rohit J. Kate and Yuk Wah Wong.** ACL-2010.
+
+## PhD theses about Semantic Parsing
+(ordered by year)
 1. **The Lifecycle of Neural Semantic Parsing**  
 [[thesis](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/35554/Cheng2019.pdf?sequence=1&isAllowed=y)]  
 **Jianpeng Cheng**, advisor: Mirella Lapata and Adam Lopez, University of Edinburgh, 2019.

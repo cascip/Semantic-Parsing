@@ -18,6 +18,10 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 [[thesis](http://www.icip.org.cn/wp-content/uploads/2019/04/Thesis-Bo-Chen.pdf)]
 **Bo Chen**, advisor: Le Sun, Institute of Software, Chinese Academy of Sciences, 2018.
 
+1. **Integrating Machine Learning and Symbolic Reasoning: Learning to Generate Symbolic Representations from Weak Supervision**  
+[[thesis](http://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2018/Liang-thesis-final.pdf)]  
+**Chen Liang**, advisor: Ken Forbus and Ni Lao, Northwestern University, 2018.
+
 1. **Syntax-Mediated Semantic Parsing**  
 [[thesis](http://sivareddy.in/papers/siva_phd_thesis.pdf)]  
 **Siva Reddy**, advisor: Mirella Lapata and Mark Steedman, University of Edinburgh, 2017.
@@ -57,6 +61,10 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 1. **Learning for Semantic Parsing with Kernels under Various Forms of Supervision.**  
 [[thesis](http://www.cs.utexas.edu/users/ml/papers/Rohit_Kate_dissertation.pdf)] [[slides](http://www.cs.utexas.edu/users/ml/slides/kate-thesis.ppt)]  
 **Rohit J. Kate**, advisor: Raymond J. Mooney, The University of Texas at Austin, 2007.
+
+1. **A Hybrid Tree Framework for Semantic Parsing and Language Generation**  
+[[thesis](https://pdfs.semanticscholar.org/6440/3eececa39909dd4d9d1b37367e540a3cbf4d.pdf?_ga=2.105455875.1443640692.1556086937-1665798022.1543215597)]  
+**Lu Wei**, advisor: Ng Hwee Tou,  Lee Wee Sun and Leslie Pack Kaelbling, National University of Singapore, 2006.
 
 1. **Semantic Lexicon Acquisition for Learning Natural Language Interfaces.**  
 [[thesis](http://www.cs.utexas.edu/~ml/papers/wolfie-dissertation-99.pdf)] [[slides](http://www.cs.utexas.edu/users/ml/slides/kate-thesis.ppt)]  

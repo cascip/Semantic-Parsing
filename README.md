@@ -8,15 +8,24 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 (ordered by year)
 1. **Neural Semantic Parsing**  
 [[slides](https://github.com/allenai/acl2018-semantic-parsing-tutorial)]  
-**Pradeep Dasigi, Srini Iyer, Alane Suhr, Matt Gardner, Luke Zettlemoyer.** ACL-2018.
+*Pradeep Dasigi, Srini Iyer, Alane Suhr, Matt Gardner, Luke Zettlemoyer.* ACL-2018.
+
+1. **Question Answering with Knowledge Base, Web and Beyond**  
+[[slides](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf)]  
+*Scott Wen-tau Yih.* NAACL-2016.
+
+1. **Natural Language Understanding: Foundations and State-of-the-Art**  
+[[slides](https://icml.cc/2015/tutorials/icml2015-nlu-tutorial.pdf)]  
+*Percy Liang.* ICML-2015.
 
 1. **Semantic Parsing with Combinatory Categorial Grammars**  
 [[slides](https://yoavartzi.com/pub/afz-tutorial.acl.2013.pdf)]  [[website](https://yoavartzi.com/tutorial/)]   
-**Yoav Artzi, Nicholas FitzGerald and Luke Zettlemoyer.** ACL-2013, EMNLP-2014, AAAI-2015.
+*Yoav Artzi, Nicholas FitzGerald and Luke Zettlemoyer.* ACL-2013, EMNLP-2014, AAAI-2015.
 
 1. **Semantic Parsing: The Task, the State of the Art and the Future**  
 [[slides](http://www.cs.utexas.edu/~ml/slides/semantic-parsing-tutorial-acl10.ppt)]  
-**Rohit J. Kate and Yuk Wah Wong.** ACL-2010.
+*Rohit J. Kate and Yuk Wah Wong.* ACL-2010.
+
 
 ## PhD theses about Semantic Parsing
 (ordered by year)
@@ -29,7 +38,7 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 **Li Dong**, advisor: Mirella Lapata, University of Edinburgh, 2018.
 
 1. **基于词典学习和结构映射的语义解析技术研究 (Semantic Parsing based on Lexicon Learning and Structure Mapping)**  
-[[thesis](http://www.icip.org.cn/wp-content/uploads/2019/04/Thesis-Bo-Chen.pdf)]
+[[thesis](http://www.icip.org.cn/wp-content/uploads/2019/04/Thesis-Bo-Chen.pdf)]  
 **Bo Chen**, advisor: Le Sun, Institute of Software, Chinese Academy of Sciences, 2018.
 
 1. **Integrating Machine Learning and Symbolic Reasoning: Learning to Generate Symbolic Representations from Weak Supervision**  
@@ -91,3 +100,165 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 1. **Using Inductive Logic Programming to Automate the Construction of Natural Language Parsers.**  
 [[thesis](http://www.cs.utexas.edu/~ml/papers/chill-dissertation-95.pdf)] [[slides](http://www.cs.utexas.edu/users/ml/slides/kate-thesis.ppt)]  
 **John M. Zelle**, advisor: Raymond J. Mooney, The University of Texas at Austin, 1995.
+
+## Papers about Semantic Parsing
+(ordered by year)
+1. **Learning an Executable Neural Semantic Parser**
+[[paper](https://www.aclweb.org/anthology/J19-1002)]  
+*Jianpeng Cheng, Siva Reddy, Vijay Saraswat, Mirella Lapata.* CL-2019.
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****
+
+1. ****
+[[paper]()] [[slides]()] [[code]()]  
+****

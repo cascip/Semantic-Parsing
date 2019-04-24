@@ -15,7 +15,7 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 **Li Dong**, advisor: Mirella Lapata, University of Edinburgh, 2018.
 
 1. **基于词典学习和结构映射的语义解析技术研究 (Semantic Parsing based on Lexicon Learning and Structure Mapping)**  
-[[thesis]()]
+[[thesis](http://www.icip.org.cn/wp-content/uploads/2019/04/Thesis-Bo-Chen.pdf)]
 **Bo Chen**, advisor: Le Sun, Institute of Software, Chinese Academy of Sciences, 2018.
 
 1. **Syntax-Mediated Semantic Parsing**  

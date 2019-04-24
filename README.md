@@ -59,9 +59,9 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 **Rohit J. Kate**, advisor: Raymond J. Mooney, The University of Texas at Austin, 2007.
 
 1. **Semantic Lexicon Acquisition for Learning Natural Language Interfaces.**  
-[[thesis](http://www.cs.utexas.edu/~ml/papers/wolfie-dissertation-99.pdf)] [[slides](http://www.cs.utexas.edu/users/ml/slides/kate-thesis.ppt)]
+[[thesis](http://www.cs.utexas.edu/~ml/papers/wolfie-dissertation-99.pdf)] [[slides](http://www.cs.utexas.edu/users/ml/slides/kate-thesis.ppt)]  
 **Cynthia Ann Thompson**, advisor: Raymond J. Mooney, The University of Texas at Austin, 1998.
 
 1. **Using Inductive Logic Programming to Automate the Construction of Natural Language Parsers.**  
-[[thesis](http://www.cs.utexas.edu/~ml/papers/chill-dissertation-95.pdf)] [[slides](http://www.cs.utexas.edu/users/ml/slides/kate-thesis.ppt)]
+[[thesis](http://www.cs.utexas.edu/~ml/papers/chill-dissertation-95.pdf)] [[slides](http://www.cs.utexas.edu/users/ml/slides/kate-thesis.ppt)]  
 **John M. Zelle**, advisor: Raymond J. Mooney, The University of Texas at Austin, 1995.

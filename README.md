@@ -38,6 +38,10 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 [[thesis](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/33690/Artzi_washington_0250E_14995.pdf?sequence=1&isAllowed=y)]  
 **Yoav Artzi**, advisor: Luke S. Zettlemoyer, University of Washington, 2015.
 
+1. **Learning from natural instructions**  
+[[thesis](https://www.ideals.illinois.edu/bitstream/handle/2142/42235/Dan_Goldwasser.pdf?sequence=1&isAllowed=y)]  
+**Dan Goldwasser**, advisor: Dan Roth, University of Illinois at Urbana-Champaign, 2012.
+
 1. **Probabilistic Grammar Induction from Sentences and Structured Meanings**  
 [[thesis](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/6190/Kwiatkowski2012.pdf?sequence=1)]  
 **Tom Kwiatkowski**, advisor: Mark Steedman, Sharon Goldwater and Luke Zettlemoyer, University of Edinburgh, 2012.

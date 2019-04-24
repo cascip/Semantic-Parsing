@@ -103,29 +103,33 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 
 ## Papers about Semantic Parsing
 (ordered by year)
-1. **Learning an Executable Neural Semantic Parser**
+1. **Learning an Executable Neural Semantic Parser**  
 [[paper](https://www.aclweb.org/anthology/J19-1002)]  
 *Jianpeng Cheng, Siva Reddy, Vijay Saraswat, Mirella Lapata.* CL-2019.
 
-1. ****
-[[paper]()] [[slides]()] [[code]()]  
-****
+1. **Semantic Parsing with Syntax- and Table-Aware SQL Generation**  
+[[paper](https://www.aclweb.org/anthology/P18-1034)]  
+*Yibo Sun, Duyu Tang, Nan Duan, Jianshu Ji, Guihong Cao, Xiaocheng Feng, Bing Qin, Ting Liu, Ming Zhou.* ACL-2018.
 
-1. ****
-[[paper]()] [[slides]()] [[code]()]  
-****
+1. **Coarse-to-Fine Decoding for Neural Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P18-1068)] [[slides](https://www.aclweb.org/anthology/attachments/P18-1068.Presentation.pdf)] [[code](https://github.com/donglixp/coarse2fine)]  
+*Li Dong and Mirella Lapata.* ACL-2018.
 
-1. ****
-[[paper]()] [[slides]()] [[code]()]  
-****
+1. **Confidence Modeling for Neural Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P18-1069)] [[slides](https://www.aclweb.org/anthology/attachments/P18-1069.Presentation.pdf)] [[code](https://github.com/donglixp/confidence)]  
+*Li Dong, Chris Quirk, Mirella Lapata.* ACL-2018.
 
-1. ****
-[[paper]()] [[slides]()] [[code]()]  
-****
+1. **StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P18-1070)]  
+*Pengcheng Yin, Chunting Zhou, Junxian He, Graham Neubig.* ACL-2018.
 
-1. ****
-[[paper]()] [[slides]()] [[code]()]  
-****
+1. **Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P18-1071)] [[slides](https://www.aclweb.org/anthology/attachments/P18-1071.Presentation.pdf)] [[code](https://github.com/dongpobeyond/Seq2Act)]  
+*Bo Chen, Le Sun, Xianpei Han.* ACL-2018.
+
+1. **Weakly Supervised Semantic Parsing with Abstract Examples**  
+[[paper](https://www.aclweb.org/anthology/P18-1168)] [[slides](https://www.aclweb.org/anthology/attachments/P18-1168.Presentation.pdf)] [[code](https://github.com/udiNaveh/nlvr_tau_nlp_final_proj)]  
+*Omer Goldman, Veronika Latcinnik, Udi Naveh, Amir Globerson, Jonathan Berant.* ACL-2018.
 
 1. ****
 [[paper]()] [[slides]()] [[code]()]  

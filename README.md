@@ -145,7 +145,7 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 
 1. **Situated Mapping of Sequential Instructions to Actions with Single-step Reward Observation**  
 [[paper](https://www.aclweb.org/anthology/P18-1193)] [[slides](https://www.aclweb.org/anthology/attachments/P18-1193.Presentation.pdf)] [[code](https://github.com/clic-lab/scone)]  
-*.*
+*Alane Suhr and Yoav Artzi.* ACL-2018.
 
 1. **Weakly-Supervised Neural Semantic Parsing with a Generative Ranker**  
 [[paper](https://www.aclweb.org/anthology/K18-1035)]  
@@ -175,62 +175,198 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 [[paper](https://www.aclweb.org/anthology/D18-1266)]  
 *Dipendra Misra, Ming-Wei Chang, Xiaodong He, Wen-tau Yih.* EMNLP.
 
+1. **Grounding language acquisition by training semantic parsers using captioned videos**  
+[[paper](https://www.aclweb.org/anthology/D18-1285)]  
+*Candace Ross, Andrei Barbu, Yevgeni Berzak, Battushig Myanganbayar, Boris Katz.* EMNLP-2018.
+
+1. **Semantic Parsing for Task Oriented Dialog using Hierarchical Representations**  
+[[paper](https://www.aclweb.org/anthology/D18-1300)] [[data](http://fb.me/semanticparsingdialog)]  
+*Sonal Gupta, Rushin Shah, Mrinal Mohit, Anuj Kumar, Mike Lewis.* EMNLP-2018.
+
+1. **Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task**  
+[[paper](https://www.aclweb.org/anthology/D18-1425)] [[data](https://yale-lily.github.io//spider)]  
+*Tao Yu, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang, Dragomir Radev.* EMNLP-2018.
+
+1. **TRANX: A Transition-based Neural Abstract Syntax Parser for Semantic Parsing and Code Generation**  
+[[paper (demo)](https://www.aclweb.org/anthology/D18-2002)] [[code](https://github.com/pcyin/tranX)]  
+*Pengcheng Yin and Graham Neubig.* EMNLP-2018.
+
+1. **Polyglot Semantic Parsing in APIs**  
+[[paper](https://www.aclweb.org/anthology/N18-1066)] [[code](https://github.com/yakazimir/zubr_public)]  
+*Kyle Richardson, Jonathan Berant, Jonas Kuhn.* NAACL-2018.
+
+1. **Semi-Supervised Lexicon Learning for Wide-Coverage Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/C18-1076)]  
+*Bo Chen, Bo An, Le Sun, Xianpei Han.* COLING-2018.
+
+1. **Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision**  
+[[paper](https://www.aclweb.org/anthology/P17-1003)] [[slides](https://crazydonkey200.github.io/NSM-ACL2017.pdf)] [[code](https://github.com/crazydonkey200/neural-symbolic-machines)]  
+*Chen Liang, Jonathan Berant, Quoc Le, Kenneth D. Forbus, Ni Lao.* ACL-2017.
+
+1. **Learning Structured Natural Language Representations for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P17-1005)] [[code](https://github.com/cheng6076/scanner)]  
+*Jianpeng Cheng, Siva Reddy, Vijay Saraswat, Mirella Lapata.* ACL-2017.
+
+1. **Learning a Neural Semantic Parser from User Feedback**  
+[[paper](https://www.aclweb.org/anthology/P17-1089)] [[code](https://github.com/sriniiyer/nl2sql)]  
+*Srinivasan Iyer | Ioannis Konstas | Alvin Cheung | Jayant Krishnamurthy | Luke Zettlemoyer.* ACL-2017.
+
+1. **Abstract Syntax Networks for Code Generation and Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P17-1105)]  
+*Maxim Rabinovich, Mitchell Stern, Dan Klein.* ACL-2017.
+
+1. **Semantic Parsing of Pre-university Math Problems**  
+[[paper](https://www.aclweb.org/anthology/P17-1195)] [[slides]()] [[code]()]  
+*Takuya Matsuzaki, Takumi Ito, Hidenao Iwane, Hirokazu Anai, Noriko H. Arai.* ACL-2017.
+
+1. **Neural Architectures for Multilingual Semantic Parsing**  
+[[paper (short)](https://www.aclweb.org/anthology/P17-2007)] [[code](https://github.com/raymondhs/semantic-multi)]  
+*Raymond Hendy Susanto and Wei Lu.* ACL-2017.
+
+1. **Neural Semantic Parsing over Multiple Knowledge-bases**  
+[[paper (short)](https://www.aclweb.org/anthology/P17-2098)] [[code](https://worksheets.codalab.org/worksheets/0xdec998f58deb4829aba80fbf49f69236/)]  
+*Jonathan Herzig and Jonathan Berant.* ACL-2017.
+
+1. **From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood**  
+[[paper](https://www.aclweb.org/anthology/P17-1097)] [[slides](http://kelvinguu.com/public/projects/Guu_Lang_to_Prog_ACL_2017_slides.pdf)] [[code](https://github.com/kelvinguu/lang2program)]  
+*Kelvin Guu, Panupong Pasupat, Evan Liu, Percy Liang.* ACL-2017.
+
+1. **Learning to Paraphrase for Question Answering**  
+[[paper](https://www.aclweb.org/anthology/D17-1091)] [[code]()]  
+*Li Dong, Jonathan Mallinson, Siva Reddy, Mirella Lapata.* EMNLP-2017.
+
+1. **Universal Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/D17-1009)] [[code](https://github.com/sivareddyg/udeplambda)]  
+*Siva Reddy, Oscar Täckström, Slav Petrov, Mark Steedman, Mirella Lapata.* EMNLP-2017.
+
+1. **Beyond Sentential Semantic Parsing: Tackling the Math SAT with a Cascade of Tree Transducers**  
+[[paper](https://www.aclweb.org/anthology/D17-1083)]  
+*Mark Hopkins, Cristian Petrescu-Prahova, Roie Levin, Ronan Le Bras, Alvaro Herrasti, Vidur Joshi.* EMNLP-2017.
+
+1. **Macro Grammars and Holistic Triggering for Efficient Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/D17-1125)] [[code](https://worksheets.codalab.org/worksheets/0x4d6dbfc5ec7f44a6a4da4ca2a9334d6e/)]  
+*Yuchen Zhang, Panupong Pasupat, Percy Liang.* EMNLP-2017.
+
+1. **Cross-domain Semantic Parsing via Paraphrasing**  
+[[paper](https://www.aclweb.org/anthology/D17-1127)] [[code](https://github.com/ysu1989/CrossSemparse)]  
+*Yu Su and Xifeng Yan.*
+
+1. **Neural Semantic Parsing with Type Constraints for Semi-Structured Tables**  
+[[paper](https://www.aclweb.org/anthology/D17-1160)]  
+*Jayant Krishnamurthy, Pradeep Dasigi, Matt Gardner.* EMNLP-2017.
+
+1. **Joint Concept Learning and Semantic Parsing from Natural Language Explanations**  
+[[paper](https://www.aclweb.org/anthology/D17-1161)]  
+*Shashank Srivastava, Igor Labutov, Tom Mitchell.* EMNLP-2017.
+
+1. **Evaluating Semantic Parsing against a Simple Web-based Question Answering Model**  
+[[paper](https://www.aclweb.org/anthology/S17-1020)] [[code](https://worksheets.codalab.org/worksheets/0x91d77db37e0a4bbbaeb37b8972f4784f/)]  
+*Alon Talmor, Mor Geva, Jonathan Berant.* \*Sem-2017.
+
+1. **Data Recombination for Neural Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P16-1002)] [[slides](http://stanford.edu/~robinjia/pdf/slides-acl2016-recombination.pdf)] [[code](https://worksheets.codalab.org/worksheets/0x50757a37779b485f89012e4ba03b6f4f/)]  
+*Robin Jia and Percy Liang.* ACL-2016.
+
+1. **Improved Semantic Parsers For If-Then Statements**  
+[[paper](https://www.aclweb.org/anthology/P16-1069)]  
+*I. Beltagy and Chris Quirk.* ACL-2016.
+
+1. **Sentence Rewriting for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P16-1073)]  
+*Bo Chen, Le Sun, Xianpei Han, Bo An.* ACL-2016.
+
+1. **Sequence-based Structured Prediction for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P16-1127)]  
+*Chunyang Xiao, Marc Dymetman, Claire Gardent.* ACL-2016.
+
+1. **The Value of Semantic Parse Labeling for Knowledge Base Question Answering**  
+[[paper (short)](https://www.aclweb.org/anthology/P16-2033)] [[data](http://aka.ms/WebQSP)]  
+*Wen-tau Yih, Matthew Richardson, Chris Meek, Ming-Wei Chang, Jina Suh.* ACL-2016.
+
+1. **Simpler Context-Dependent Logical Forms via Model Projections**  
+[[paper](https://www.aclweb.org/anthology/P16-1138)] [[code](https://worksheets.codalab.org/worksheets/0xad3fc9f52f514e849b282a105b1e3f02/)]  
+*Reginald Long, Panupong Pasupat, Percy Liang.* ACL-2016.
+
+1. **Inferring Logical Forms From Denotations**  
+[[paper](https://www.aclweb.org/anthology/P16-1003)] [[slides](https://ppasupat.github.io/resource/ACL2016-slides.pdf)] [[code](https://worksheets.codalab.org/worksheets/0x47cc64d9c8ba4a878807c7c35bb22a42/)]  
+*Panupong Pasupat and Percy Liang.* ACL-2016.
+
+1. **Simpler Context-Dependent Logical Forms via Model Projections**  
+[[paper](https://www.aclweb.org/anthology/P16-1138)] [[code](https://worksheets.codalab.org/worksheets/0xad3fc9f52f514e849b282a105b1e3f02/)]  
+*Reginald Long, Panupong Pasupat, Percy Liang.* ACL-2016.
+
+1. **Language to Logical Form with Neural Attention**  
+[[paper](https://www.aclweb.org/anthology/P16-1004)] [[slides](http://homepages.inf.ed.ac.uk/s1478528/acl16-lang2logic-slides.pdf)] [[code](https://github.com/donglixp/lang2logic)]  
+*Li Dong and Mirella Lapata.* ACL-2016.
+
+1. **Improving Semantic Parsing via Answer Type Inference**  
+[[paper](https://www.aclweb.org/anthology/D16-1015)]  
+*Semih Yavuz, Izzeddin Gur, Yu Su, Mudhakar Srivatsa, Xifeng Yan.*
+
+1. **Semantic Parsing to Probabilistic Programs for Situated Question Answering**  
+[[paper](https://www.aclweb.org/anthology/D16-1016)] [[code](https://allenai.org/paper-appendix/emnlp2016-p3/)]  
+*Jayant Krishnamurthy, Oyvind Tafjord, Aniruddha Kembhavi.*
+
+1. **Semantic Parsing with Semi-Supervised Sequential Autoencoders**  
+[[paper](https://www.aclweb.org/anthology/D16-1116)] [[code](https://github.com/deepmind/unsup-queries-data)]  
+*Tomáš Kočiský, Gábor Melis, Edward Grefenstette, Chris Dyer, Wang Ling, Phil Blunsom, Karl Moritz Hermann.*
+
+1. **Probabilistic Models for Learning a Semantic Parser Lexicon**  
+[[paper](https://www.aclweb.org/anthology/N16-1074)] [[code](https://allenai.org/paper-appendix/naacl2016-lexicon/)]  
+*Jayant Krishnamurthy.* NAACL-2016.
+
+1. **A Corpus and Semantic Parser for Multilingual Natural Language Querying of OpenStreetMap**  
+[[paper](https://www.aclweb.org/anthology/N16-1088)] [[data](https://www.cl.uni-heidelberg.de/statnlpgroup/nlmaps/)]  
+*Carolin Haas and Stefan Riezler.* NAACL-2016.
+
+1. **Transforming Dependency Structures to Logical Forms for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/Q16-1010)] [[slides](http://sivareddy.in/papers/talks/siva-naacl-2016.pdf)] [[code](https://github.com/sivareddyg/deplambda)]  
+*Siva Reddy, Oscar Täckström, Michael Collins, Tom Kwiatkowski, Dipanjan Das, Mark Steedman, Mirella Lapata.* TACL-2016.
+
+1. **Learning to Make Inferences in a Semantic Parsing Task**  
+[[paper](https://www.aclweb.org/anthology/Q16-1012)]  
+*Kyle Richardson and Jonas Kuhn.* TACL-2016.
+
+1. **Cross-lingual Learning of an Open-domain Semantic Parser**  
+[[paper](https://www.aclweb.org/anthology/C16-1056)]  
+*Kilian Evang and Johan Bos.* COLING-2016.
+
+1. **Language to Code: Learning Semantic Parsers for If-This-Then-That Recipes**  
+[[paper](https://www.aclweb.org/anthology/P15-1085)]  
+*Chris Quirk, Raymond Mooney, Michel Galley.* ACL-2015.
+
+1. **Scalable Semantic Parsing with Partial Ontologies**  
+[[paper](https://www.aclweb.org/anthology/P15-1127)] [[slides](https://homes.cs.washington.edu/~eunsol/papers/ckz_acl15_slides.pdf)] [[data](http://homes.cs.washington.edu/~eunsol/files/acl15_ckz_data.tar.gz)]  
+*Eunsol Choi, Tom Kwiatkowski, Luke Zettlemoyer.* ACL-2015.
+
+1. **Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base**  
+[[paper](https://www.aclweb.org/anthology/P15-1128)] [[slides](https://www.aclweb.org/anthology/attachments/P15-1128.Presentation.pdf)] [[code](https://github.com/scottyih/STAGG)]  
+*Wen-tau Yih, Ming-Wei Chang, Xiaodong He, Jianfeng Gao.* ACL-2015.
+
+1. **Building a Semantic Parser Overnight**  
+[[paper](https://www.aclweb.org/anthology/P15-1129)] [[code](https://www.codalab.org/worksheets/0x269ef752f8c344a28383240f7bb2be9c/)]  
+*Yushi Wang, Jonathan Berant, Percy Liang.* ACL-2015.
+
+1. **Compositional Semantic Parsing on Semi-Structured Tables**  
+[[paper](https://www.aclweb.org/anthology/P15-1142)] [[slides](https://ppasupat.github.io/resource/ACL2015-slides.pdf)] [[code](https://ppasupat.github.io/WikiTableQuestions/)]  
+*Panupong Pasupat and Percy Liang.* ACL-2015.
+
+1. **Constrained Semantic Forests for Improved Discriminative Semantic Parsing**  
+[[paper (short)](https://www.aclweb.org/anthology/P15-2121)] [[code](http://www.statnlp.org/research/sp/code/sp.v0.2.tgz)]  
+*Wei Lu.* ACL-2015.
+
 1. ****  
-[[paper]()] [[slides]()] [[code]()]  
+[[paper]()] [[code]()]  
+*.* ACL-2015.
+
+1. ****  
+[[paper]()] [[code]()]  
 *.*
 
 1. ****  
-[[paper]()] [[slides]()] [[code]()]  
+[[paper]()] [[code]()]  
 *.*
 
 1. ****  
-[[paper]()] [[slides]()] [[code]()]  
-*.*
-
-1. ****  
-[[paper]()] [[slides]()] [[code]()]  
-*.*
-
-1. ****  
-[[paper]()] [[slides]()] [[code]()]  
-*.*
-
-1. ****  
-[[paper]()] [[slides]()] [[code]()]  
-*.*
-
-1. ****  
-[[paper]()] [[slides]()] [[code]()]  
-*.*
-
-1. ****  
-[[paper]()] [[slides]()] [[code]()]  
-*.*
-
-1. ****  
-[[paper]()] [[slides]()] [[code]()]  
-*.*
-
-1. ****  
-[[paper]()] [[slides]()] [[code]()]  
-*.*
-
-1. ****  
-[[paper]()] [[slides]()] [[code]()]  
-*.*
-
-1. ****  
-[[paper]()] [[slides]()] [[code]()]  
-*.*
-
-1. ****  
-[[paper]()] [[slides]()] [[code]()]  
-*.*
-
-1. ****  
-[[paper]()] [[slides]()] [[code]()]  
-*.*
-
-1. ****  
-[[paper]()] [[slides]()] [[code]()]  
+[[paper]()] [[code]()]  
 *.*

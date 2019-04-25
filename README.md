@@ -131,5 +131,106 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 [[paper](https://www.aclweb.org/anthology/P18-1168)] [[slides](https://www.aclweb.org/anthology/attachments/P18-1168.Presentation.pdf)] [[code](https://github.com/udiNaveh/nlvr_tau_nlp_final_proj)]  
 *Omer Goldman, Veronika Latcinnik, Udi Naveh, Amir Globerson, Jonathan Berant.* ACL-2018.
 
+1. **Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback**  
+[[paper](https://www.aclweb.org/anthology/P18-1169)] [[slides](https://www.aclweb.org/anthology/attachments/P18-1169.Presentation.pdf)]  
+*Carolin Lawrence and Stefan Riezler.* ACL-2018.
+
+1. **Active learning for deep semantic parsing**  
+[[paper (short)](https://www.aclweb.org/anthology/P18-2008)] [[poster](https://www.aclweb.org/anthology/attachments/P18-2008.Poster.pdf)]  
+*Long Duong, Hadi Afshar, Dominique Estival, Glen Pink, Philip Cohen, Mark Johnson.* ACL-2018.
+
+1. **Learning Cross-lingual Distributed Logical Representations for Semantic Parsing**  
+[[paper (short)](https://www.aclweb.org/anthology/P18-2107)] [[slides](https://www.aclweb.org/anthology/attachments/P18-2107.Presentation.pdf)]  
+*Yanyan Zou and Wei Lu.* ACL-2018.
+
+1. **Situated Mapping of Sequential Instructions to Actions with Single-step Reward Observation**  
+[[paper](https://www.aclweb.org/anthology/P18-1193)] [[slides](https://www.aclweb.org/anthology/attachments/P18-1193.Presentation.pdf)] [[code](https://github.com/clic-lab/scone)]  
+*.*
+
+1. **Weakly-Supervised Neural Semantic Parsing with a Generative Ranker**  
+[[paper](https://www.aclweb.org/anthology/K18-1035)]  
+*Jianpeng Cheng and Mirella Lapata.* CoNLL-2018.
+
+1. **Exploiting Rich Syntactic Information for Semantic Parsing with Graph-to-Sequence Model**  
+[[paper (short)](https://www.aclweb.org/anthology/D18-1110)]  
+*Kun Xu, Lingfei Wu, Zhiguo Wang, Mo Yu, Liwei Chen, Vadim Sheinin.* EMNLP-2018.
+
+1. **Question Generation from SQL Queries Improves Neural Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/D18-1188)]  
+*Daya Guo, Yibo Sun, Duyu Tang, Nan Duan, Jian Yin, Hong Chi, James Cao, Peng Chen, Ming Zhou.* EMNLP-2018.
+
+1. **Decoupling Structure and Lexicon for Zero-Shot Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/D18-1190)] [[code](https://github.com/jonathanherzig/zero-shot-semantic-parsing)]  
+*Jonathan Herzig and Jonathan Berant.* EMNLP-2018.
+
+1. **Learning to Learn Semantic Parsers from Natural Language Supervision**  
+[[paper](https://www.aclweb.org/anthology/D18-1195)]  
+*Igor Labutov, Bishan Yang, Tom Mitchell.* EMNLP-2018.
+
+1. **Dependency-based Hybrid Trees for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/D18-1265)] [[code](https://github.com/allanj/dep-hybrid-tree)]  
+*Zhanming Jie and Wei Lu.* EMNLP-2018.
+
+1. **Policy Shaping and Generalized Update Equations for Semantic Parsing from Denotations**  
+[[paper](https://www.aclweb.org/anthology/D18-1266)]  
+*Dipendra Misra, Ming-Wei Chang, Xiaodong He, Wen-tau Yih.* EMNLP.
+
 1. ****  
 [[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*
+
+1. ****  
+[[paper]()] [[slides]()] [[code]()]  
+*.*

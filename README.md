@@ -381,6 +381,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/N16-1088)] [[data](https://www.cl.uni-heidelberg.de/statnlpgroup/nlmaps/)]  
 *Carolin Haas and Stefan Riezler.* NAACL-2016.
 
+1. **Learning to compose neural networks for question answering**  
+[[paper](https://www.aclweb.org/anthology/N16-1181)] [[slides](http://people.eecs.berkeley.edu/~jda/slides/ardk_nmn2.pdf)] [[code](https://github.com/jacobandreas/nmn2)]  
+*Jacob Andreas, Marcus Rohrbach, Trevor Darrell and Dan Klein.* NAACL-2016.
+
 1. **Transforming Dependency Structures to Logical Forms for Semantic Parsing**  
 [[paper](https://www.aclweb.org/anthology/Q16-1010)] [[slides](http://sivareddy.in/papers/talks/siva-naacl-2016.pdf)] [[code](https://github.com/sivareddyg/deplambda)]  
 *Siva Reddy, Oscar Täckström, Michael Collins, Tom Kwiatkowski, Dipanjan Das, Mark Steedman, Mirella Lapata.* TACL-2016.
@@ -511,17 +515,17 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 ### 2013
 
-1. ****  
-[[paper]()]  
-*.* ACL-2013.
+1. **Large-scale Semantic Parsing via Schema Matching and Lexicon Extension**  
+[[paper](https://www.aclweb.org/anthology/P13-1042)]  
+*Qingqing Cai and Alexander Yates.* ACL-2013.
 
-1. ****  
-[[paper]()]  
-*.* ACL-2013.
+1. **Grounded Unsupervised Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P13-1092)]  
+*Hoifung Poon.* ACL-2013.
 
-1. ****  
-[[paper]()]  
-*.* ACL-2013.
+1. **Semantic Parsing as Machine Translation**  
+[[paper (short)](https://www.aclweb.org/anthology/P13-2009)] [[code](https://github.com/jacobandreas/smt-semparse)]  
+*Jacob Andreas, Andreas Vlachos, Stephen Clark.* ACL-2013.
 
 1. ****  
 [[paper]()]  

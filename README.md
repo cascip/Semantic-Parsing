@@ -26,7 +26,7 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 [[slides](http://www.cs.utexas.edu/~ml/slides/semantic-parsing-tutorial-acl10.ppt)]  
 *Rohit J. Kate and Yuk Wah Wong.* ACL-2010.
 
-## Framework or Tools for Semantic Parsing
+## Frameworks or Tools for Semantic Parsing
 1. **SEMPRE: Semantic Parsing with Execution**  
 [[website](https://nlp.stanford.edu/software/sempre/)]
 
@@ -42,6 +42,41 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 1. **OpenNMT (for neural sequence modeling)**  
 [[website](http://opennmt.net/)]
 
+
+## Datasets for Semantic Parsing
+
+1. **Geoquery**  
+[[website](http://www.cs.utexas.edu/~ml/geo.html)] [[execution](https://cs.stanford.edu/~pliang/software/dcs-1.0.zip)]  
+cite: John Zelle and Raymond Mooney. 1996. Learning to parse database queries using inductive logic programming. In AAAI.
+
+1. **Jobs**  
+[[website](http://www.cs.utexas.edu/users/ml/nldata/jobquery.html)] [[execution](https://cs.stanford.edu/~pliang/software/dcs-1.0.zip)]  
+cite: Lappoon Tang and Raymond Mooney. 2001. Using multiple clause constructors in inductive logic programming for semantic parsing. In ECML.
+
+1. **ATIS**  
+[[context-independent](https://worksheets.codalab.org/worksheets/0x50757a37779b485f89012e4ba03b6f4f)] [[context-dependent](https://github.com/clic-lab/atis)]  
+cite: Charles Hemphill, John Godfrey, and George Doddington. 1990. The ATIS spoken language pilot corpus. In DARPA Speech & Natural Language Workshop.  
+Deborah Dahl, Madeleine Bates, Michael Brown, William Fisher, Kate Hunicke-Smith, David Pallett, Christine Pao, Alexander Rudnicky, and Elizabeth Shriberg. 1994. Expanding the scope of the ATIS task: The ATIS-3 corpus. In HLT.
+
+1. **Webquestions**
+[[website](https://worksheets.codalab.org/worksheets/0xba659fe363cb46e7a505c5b6a774dc8a)]  
+cite: Jonathan Berant, Andrew Chou, Roy Frostig, Percy Liang. 2013. Semantic parsing on Freebase from question-answer pairs. In EMNLP.
+
+1. **Free917**  
+[[website](https://nlp.stanford.edu/software/sempre/)]
+cite: Qingqing Cai and Alexander Yates. 2013. Large-scale Semantic Parsing via Schema Matching and Lexicon Extension. In ACL.
+
+1. **CoNaLa**  
+[[website](https://conala-corpus.github.io/)]  
+cite: Pengcheng Yin, Bowen Deng, Edgar Chen, Bogdan Vasilescu, and Graham Neubig. 2018. Learning to mine aligned code and natural language pairs from Stack Overflow. In MSR.
+
+1. **NL2Bash**  
+[[website](https://github.com/TellinaTool/nl2bash)]  
+cite: X.Victoria Lin, C. Wang, L. Zettlemoyer, M.D. Ernst. 2018. NL2Bash: A corpus and semantic parser for natural language interface to the Linux operating system. In LREC: Language Resources and Evaluation Conference.
+
+1. **WikiTableQuestions**  
+[[website](https://ppasupat.github.io/WikiTableQuestions/)]  
+cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on Semi-Structured Tables. In ACL.
 
 ## PhD theses about Semantic Parsing
 (ordered by year)
@@ -371,18 +406,62 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 [[paper (short)](https://www.aclweb.org/anthology/P15-2121)] [[code](http://www.statnlp.org/research/sp/code/sp.v0.2.tgz)]  
 *Wei Lu.* ACL-2015.
 
-1. ****  
-[[paper]()] [[code]()]  
-*.* ACL-2015.
+1. **Automatically Solving Number Word Problems by Semantic Parsing and Reasoning**  
+[[paper](https://www.aclweb.org/anthology/D15-1135)] [[dataset](https://www.microsoft.com/en-us/research/project/sigmadolphin-2/)]  
+*Shuming Shi, Yuehui Wang, Chin-Yew Lin, Xiaojiang Liu, Yong Rui.* EMNLP-2015.
 
-1. ****  
-[[paper]()] [[code]()]  
-*.*
+1. **Improving Semantic Parsing with Enriched Synchronous Context-Free Grammar**  
+[[paper](https://www.aclweb.org/anthology/D15-1170)]  
+*Junhui Li, Muhua Zhu, Wei Lu, Guodong Zhou.* EMNLP-2015.
 
-1. ****  
-[[paper]()] [[code]()]  
-*.*
+1. **Grounded Semantic Parsing for Complex Knowledge Extraction**  
+[[paper](https://www.aclweb.org/anthology/N15-1077)]  
+*Ankur P. Parikh, Hoifung Poon, Kristina Toutanova.* NAACL-2015.
 
-1. ****  
-[[paper]()] [[code]()]  
-*.*
+1. **Semantic parsing of speech using grammars learned with weak supervision**  
+[[paper](https://www.aclweb.org/anthology/N15-1088)]  
+*Judith Gaspers, Philipp Cimiano, Britta Wrede.* NAACL-2015.
+
+1. **Type-Driven Incremental Semantic Parsing with Polymorphism**  
+[[paper (short)](https://www.aclweb.org/anthology/N15-1162)] [[slides](http://kaizhao.me/files/type-driven-semantic-parsing.pdf)] [[code](https://github.com/kaayy/TISP)]  
+*Kai Zhao and Liang Huang.* NAACL-2015.
+
+1. **Imitation Learning of Agenda-based Semantic Parsers**  
+[[paper](https://www.aclweb.org/anthology/Q15-1039)] [[code](https://www.codalab.org/worksheets/0x8fdfad310dd84b7baf683b520b4b64d5/)]  
+*Jonathan Berant and Percy Liang.* TACL-2015.
+
+1. **Semantic Parsing of Ambiguous Input through Paraphrasing and Verification**  
+[[paper](https://www.aclweb.org/anthology/Q15-1041)]  
+*Philip Arthur, Graham Neubig, Sakriani Sakti, Tomoki Toda, Satoshi Nakamura.* TACL-2015.
+
+1. **Parsing Algebraic Word Problems into Equations**  
+[[paper](https://www.aclweb.org/anthology/Q15-1042)] [[code](https://gitlab.cs.washington.edu/ALGES/TACL2015)]  
+*Rik Koncel-Kedziorski, Hannaneh Hajishirzi, Ashish Sabharwal, Oren Etzioni, Siena Dumas Ang.* TACL-2015.⁠
+
+1. **Joint Syntactic and Semantic Parsing with Combinatory Categorial Grammar**  
+[[paper](https://www.aclweb.org/anthology/P14-1112)] [[code](http://rtw.ml.cmu.edu/acl2014_asp/)]  
+*Jayant Krishnamurthy and Tom M. Mitchell.* ACL-2014.
+
+1. **Semantic Parsing via Paraphrasing**  
+[[paper](https://www.aclweb.org/anthology/P14-1133)] [[code](https://nlp.stanford.edu/software/sempre/)]  
+*Jonathan Berant and Percy Liang.* ACL-2014.
+
+1. **Context-dependent Semantic Parsing for Time Expressions**  
+[[paper](https://www.aclweb.org/anthology/P14-1135)] [[slides](http://kentonl.com/pub/ladz-acl.2014.slides.pdf)] [[code](https://bitbucket.org/kentonl/uwtime)]  
+*Kenton Lee, Yoav Artzi, Jesse Dodge, Luke Zettlemoyer.* ACL-2014.
+
+1. **Semantic Parsing for Single-Relation Question Answering**  
+[[paper (short)](https://www.aclweb.org/anthology/P14-2105)] [[slides](https://github.com/scottyih/Slides/blob/master/ACL-14%20Single-Relation%20QA%20v2.pptx)]  
+*Wen-tau Yih, Xiaodong He, Christopher Meek.* ACL-2014.
+
+1. **Information Extraction over Structured Data: Question Answering with Freebase**  
+[[paper](https://www.aclweb.org/anthology/P14-1090)] [[slides](http://cs.jhu.edu/~xuchen/paper/acl14-ie-freebase.pdf)] [[data](http://cs.jhu.edu/~xuchen/packages/acl14submissions-freebase-qa.tar.bz2)]  
+*Xuchen Yao and Benjamin Van Durme.* ACL-2014.
+
+1. **Knowledge-Based Question Answering as Machine Translation**  
+[[paper](https://www.aclweb.org/anthology/P14-1091)]  
+*Junwei Bao, Nan Duan, Ming Zhou, Tiejun Zhao.* ACL-2014.
+
+1. **Empirically-motivated Generalizations of CCG Semantic Parsing Learning Algorithms**  
+[[paper](https://www.aclweb.org/anthology/E14-1037)]  
+*.* EACL-2014.

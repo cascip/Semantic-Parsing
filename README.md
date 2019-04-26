@@ -464,4 +464,4 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 1. **Empirically-motivated Generalizations of CCG Semantic Parsing Learning Algorithms**  
 [[paper](https://www.aclweb.org/anthology/E14-1037)]  
-*.* EACL-2014.
+*Jesse Glass and Alexander Yates.* EACL-2014.

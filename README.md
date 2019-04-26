@@ -58,7 +58,7 @@ cite: Lappoon Tang and Raymond Mooney. 2001. Using multiple clause constructors 
 cite: Charles Hemphill, John Godfrey, and George Doddington. 1990. The ATIS spoken language pilot corpus. In DARPA Speech & Natural Language Workshop.  
 Deborah Dahl, Madeleine Bates, Michael Brown, William Fisher, Kate Hunicke-Smith, David Pallett, Christine Pao, Alexander Rudnicky, and Elizabeth Shriberg. 1994. Expanding the scope of the ATIS task: The ATIS-3 corpus. In HLT.
 
-1. **Webquestions**
+1. **Webquestions**  
 [[website](https://worksheets.codalab.org/worksheets/0xba659fe363cb46e7a505c5b6a774dc8a)]  
 cite: Jonathan Berant, Andrew Chou, Roy Frostig, Percy Liang. 2013. Semantic parsing on Freebase from question-answer pairs. In EMNLP.
 
@@ -154,9 +154,12 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 ## Papers about Semantic Parsing
 (ordered by year)
+### 2019
 1. **Learning an Executable Neural Semantic Parser**  
 [[paper](https://www.aclweb.org/anthology/J19-1002)]  
 *Jianpeng Cheng, Siva Reddy, Vijay Saraswat, Mirella Lapata.* CL-2019.
+
+### 2018
 
 1. **Semantic Parsing with Syntax- and Table-Aware SQL Generation**  
 [[paper](https://www.aclweb.org/anthology/P18-1034)]  
@@ -250,6 +253,12 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/C18-1076)]  
 *Bo Chen, Bo An, Le Sun, Xianpei Han.* COLING-2018.
 
+1. **NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System**  
+[[paper](https://www.aclweb.org/anthology/L18-1491)] [[code](https://github.com/TellinaTool/nl2bash)]  
+*Xi Victoria Lin, Chenglong Wang, Luke Zettlemoyer, Michael D. Ernst.* LREC-2018.
+
+### 2017
+
 1. **Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision**  
 [[paper](https://www.aclweb.org/anthology/P17-1003)] [[slides](https://crazydonkey200.github.io/NSM-ACL2017.pdf)] [[code](https://github.com/crazydonkey200/neural-symbolic-machines)]  
 *Chen Liang, Jonathan Berant, Quoc Le, Kenneth D. Forbus, Ni Lao.* ACL-2017.
@@ -314,6 +323,8 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/S17-1020)] [[code](https://worksheets.codalab.org/worksheets/0x91d77db37e0a4bbbaeb37b8972f4784f/)]  
 *Alon Talmor, Mor Geva, Jonathan Berant.* \*Sem-2017.
 
+### 2016
+
 1. **Data Recombination for Neural Semantic Parsing**  
 [[paper](https://www.aclweb.org/anthology/P16-1002)] [[slides](http://stanford.edu/~robinjia/pdf/slides-acl2016-recombination.pdf)] [[code](https://worksheets.codalab.org/worksheets/0x50757a37779b485f89012e4ba03b6f4f/)]  
 *Robin Jia and Percy Liang.* ACL-2016.
@@ -352,15 +363,15 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 1. **Improving Semantic Parsing via Answer Type Inference**  
 [[paper](https://www.aclweb.org/anthology/D16-1015)]  
-*Semih Yavuz, Izzeddin Gur, Yu Su, Mudhakar Srivatsa, Xifeng Yan.*
+*Semih Yavuz, Izzeddin Gur, Yu Su, Mudhakar Srivatsa, Xifeng Yan.* EMNLP-2016.
 
 1. **Semantic Parsing to Probabilistic Programs for Situated Question Answering**  
 [[paper](https://www.aclweb.org/anthology/D16-1016)] [[code](https://allenai.org/paper-appendix/emnlp2016-p3/)]  
-*Jayant Krishnamurthy, Oyvind Tafjord, Aniruddha Kembhavi.*
+*Jayant Krishnamurthy, Oyvind Tafjord, Aniruddha Kembhavi.* EMNLP-2016.
 
 1. **Semantic Parsing with Semi-Supervised Sequential Autoencoders**  
 [[paper](https://www.aclweb.org/anthology/D16-1116)] [[code](https://github.com/deepmind/unsup-queries-data)]  
-*Tomáš Kočiský, Gábor Melis, Edward Grefenstette, Chris Dyer, Wang Ling, Phil Blunsom, Karl Moritz Hermann.*
+*Tomáš Kočiský, Gábor Melis, Edward Grefenstette, Chris Dyer, Wang Ling, Phil Blunsom, Karl Moritz Hermann.* EMNLP-2016.
 
 1. **Probabilistic Models for Learning a Semantic Parser Lexicon**  
 [[paper](https://www.aclweb.org/anthology/N16-1074)] [[code](https://allenai.org/paper-appendix/naacl2016-lexicon/)]  
@@ -381,6 +392,8 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 1. **Cross-lingual Learning of an Open-domain Semantic Parser**  
 [[paper](https://www.aclweb.org/anthology/C16-1056)]  
 *Kilian Evang and Johan Bos.* COLING-2016.
+
+### 2015
 
 1. **Language to Code: Learning Semantic Parsers for If-This-Then-That Recipes**  
 [[paper](https://www.aclweb.org/anthology/P15-1085)]  
@@ -438,6 +451,8 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/Q15-1042)] [[code](https://gitlab.cs.washington.edu/ALGES/TACL2015)]  
 *Rik Koncel-Kedziorski, Hannaneh Hajishirzi, Ashish Sabharwal, Oren Etzioni, Siena Dumas Ang.* TACL-2015.⁠
 
+### 2014
+
 1. **Joint Syntactic and Semantic Parsing with Combinatory Categorial Grammar**  
 [[paper](https://www.aclweb.org/anthology/P14-1112)] [[code](http://rtw.ml.cmu.edu/acl2014_asp/)]  
 *Jayant Krishnamurthy and Tom M. Mitchell.* ACL-2014.
@@ -473,3 +488,77 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 1. **Morpho-syntactic Lexical Generalization for CCG Semantic Parsing**  
 [[paper](https://www.aclweb.org/anthology/D14-1135)]  
 *Adrienne Wang, Tom Kwiatkowski, Luke Zettlemoyer.* EMNLP-2014.
+
+1. **Semantic Parsing with Relaxed Hybrid Trees**  
+[[paper](https://www.aclweb.org/anthology/D14-1137)]  [[code](http://www.statnlp.org/paper/semantic-parsing-with-relaxed-hybrid-trees.html)]
+*Wei Lu.* EMNLP-2014.
+
+1. **Question Answering over Linked Data Using First-order Logic**  
+[[paper](https://www.aclweb.org/anthology/D14-1116)]  
+*Shizhu He, Kang Liu, Yuanzhe Zhang, Liheng Xu, Jun Zhao.* EMNLP-2014.
+
+1. **Large-scale Semantic Parsing without Question-Answer Pairs**  
+[[paper](https://www.aclweb.org/anthology/Q14-1030)] [[slides](http://sivareddy.in/papers/talks/siva-naacl-2015.pdf)] [[code](http://sivareddy.in/downloads/#GraphParser)]  
+*Siva Reddy, Mirella Lapata, Mark Steedman.* TACL-2014.
+
+1. **A New Corpus and Imitation Learning Framework for Context-Dependent Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/Q14-1042)] [[code](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbmRyZWFzdmxhY2hvc3xneDo3MTJkN2EzZDE3MzkxODk4)] [[data](https://sites.google.com/site/andreasvlachos/resources)]  
+*Andreas Vlachos and Stephen Clark.* TACL-2014.
+
+1. **Multilingual Semantic Parsing : Parsing Multiple Languages into Semantic Representations**  
+[[paper](https://www.aclweb.org/anthology/C14-1122)]  
+*Zhanming Jie and Wei Lu.* COLING-2014.
+
+### 2013
+
+1. ****  
+[[paper]()]  
+*.* ACL-2013.
+
+1. ****  
+[[paper]()]  
+*.* ACL-2013.
+
+1. ****  
+[[paper]()]  
+*.* ACL-2013.
+
+1. ****  
+[[paper]()]  
+*.* ACL-2013.
+
+1. ****  
+[[paper]()]  
+*.* ACL-2013.
+
+1. ****  
+[[paper]()]  
+*.* ACL-2013.
+
+1. ****  
+[[paper]()]  
+*.* ACL-2013.
+
+1. ****  
+[[paper]()]  
+*.* ACL-2013.
+
+1. ****  
+[[paper]()]  
+*.* ACL-2013.
+
+1. ****  
+[[paper]()]  
+*.* ACL-2013.
+
+1. ****  
+[[paper]()]  
+*.* ACL-2013.
+
+1. ****  
+[[paper]()]  
+*.*
+
+1. ****  
+[[paper]()]  
+*.*

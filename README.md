@@ -26,6 +26,22 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@isc
 [[slides](http://www.cs.utexas.edu/~ml/slides/semantic-parsing-tutorial-acl10.ppt)]  
 *Rohit J. Kate and Yuk Wah Wong.* ACL-2010.
 
+## Framework or Tools for Semantic Parsing
+1. **SEMPRE: Semantic Parsing with Execution**  
+[[website](https://nlp.stanford.edu/software/sempre/)]
+
+1. **Cornell SPF - Cornell Semantic Parsing Framework**  
+[[website](https://github.com/clic-lab/spf)]
+
+1. **Allennlp - An open-source NLP research library**  
+[[website](https://github.com/allenai/allennlp)]
+
+1. **SLING - A natural language frame semantics parser**  
+[[website](https://github.com/google/sling)]
+
+1. **OpenNMT (for neural sequence modeling)**  
+[[website](http://opennmt.net/)]
+
 
 ## PhD theses about Semantic Parsing
 (ordered by year)

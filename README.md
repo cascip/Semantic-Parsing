@@ -465,3 +465,11 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 1. **Empirically-motivated Generalizations of CCG Semantic Parsing Learning Algorithms**  
 [[paper](https://www.aclweb.org/anthology/E14-1037)]  
 *Jesse Glass and Alexander Yates.* EACL-2014.
+
+1. **Learning Compact Lexicons for CCG Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/D14-1134)] [[data](https://github.com/clic-lab/navigation-corpus)]  
+*Yoav Artzi, Dipanjan Das, Slav Petrov.* EMNLP-2014.
+
+1. **Morpho-syntactic Lexical Generalization for CCG Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/D14-1135)]  
+*Adrienne Wang, Tom Kwiatkowski, Luke Zettlemoyer.* EMNLP-2014.

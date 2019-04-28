@@ -587,26 +587,115 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/P11-1149)]  
 *Dan Goldwasser, Roi Reichart, James Clarke, Dan Roth.* ACL-2011.
 
-1. ****  
-[[paper]()]  
-*.*
+1. **Bootstrapping Semantic Parsers from Conversations**  
+[[paper](https://www.aclweb.org/anthology/D11-1039)] [[slides](https://yoavartzi.com/pub/az-emnlp.2011.slides.pdf)]  
+*Yoav Artzi and Luke Zettlemoyer.* EMNLP-2011.
+
+1. **Lexical Generalization in CCG Grammar Induction for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/D11-1140)]  
+*Tom Kwiatkowski, Luke Zettlemoyer, Sharon Goldwater, Mark Steedman.* EMNLP-2011.
+
+1. **Computing Logical Form on Regulatory Texts**  
+[[paper](https://www.aclweb.org/anthology/D11-1111)]  
+*Nikhil Dinesh, Aravind Joshi, Insup Lee.* EMNLP-2011.
+
+### 2010
+
+1. **Driving Semantic Parsing from the World’s Response**  
+[[paper](https://www.aclweb.org/anthology/W10-2903)]  
+*James Clarke, Dan Goldwasser, Ming-Wei Chang, Dan Roth.* CoNLL-2010.
+
+1. **Inducing Probabilistic CCG Grammars from Logical Form with Higher-Order Unification**  
+[[paper](https://www.aclweb.org/anthology/D10-1119)]  
+*Tom Kwiatkowksi, Luke Zettlemoyer, Sharon Goldwater, Mark Steedman.* EMNLP-2010.
+
+1. **Generative Alignment and Semantic Parsing for Learning from Ambiguous Supervision**  
+[[paper](https://www.aclweb.org/anthology/C10-2062)]  
+*Joohyun Kim and Raymond Mooney.* COLING-2010.
+
+### before 2010
+
+1. **Learning a Compositional Semantic Parser using an Existing Syntactic Parser**  
+[[paper](https://www.aclweb.org/anthology/P09-1069)] [[slides](http://www.cs.utexas.edu/users/ml/slides/ge-acl09.ppt)]  
+*Ruifang Ge and Raymond Mooney.* ACL-2009.
+
+1. **Learning Context-Dependent Mappings from Sentences to Logical Form**  
+[[paper](https://www.aclweb.org/anthology/P09-1110)]  
+*Luke Zettlemoyer and Michael Collins.* ACL-2009.
+
+1. **Unsupervised Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/D09-1001)]  
+*Hoifung Poon and Pedro Domingos.* EMNLP-2009.
+
+1. **Transforming Meaning Representation Grammars to Improve Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/W08-2105)]  
+*Rohit Kate.* CoNLL-2008.
+
+1. **https://www.aclweb.org/anthology/C08-1140**  
+[[paper](https://www.aclweb.org/anthology/C08-1140)]  
+*Deyu Zhou and Yulan He.* COLING-2008.
+
+1. **Learning Synchronous Grammars for Semantic Parsing with Lambda Calculus**  
+[[paper](https://www.aclweb.org/anthology/P07-1121)] [[slides](http://www.cs.utexas.edu/users/ml/slides/kate-thesis.ppt)]  
+*Yuk Wah Wong and Raymond J. Mooney.* ACL-2007.
+
+
+1. **Using Semantic Roles to Improve Question Answering**  
+[[paper](https://www.aclweb.org/anthology/D07-1002)]  
+*Dan Shen and Mirella Lapata.* EMNLP-2007.
+
+1. **Online Learning of Relaxed CCG Grammars for Parsing to Logical Form**  
+[[paper](https://www.aclweb.org/anthology/D07-1071)]  
+*Luke S. Zettlemoyer and Michael Collins.* ENNLP-2007.
+
+1. **Generation by Inverting a Semantic Parser that Uses Statistical Machine Translation**  
+[[paper](https://www.aclweb.org/anthology/N07-1022)]  
+*Yuk Wah Wong and Raymond Mooney.* NAACL-2007.
+
+1. **Semi-Supervised Learning for Semantic Parsing using Support Vector Machines**  
+[[paper](https://www.aclweb.org/anthology/N07-2021)]  
+*Rohit Kate and Raymond Mooney.* NAACL-2007.
+
+1. **Learning for Semantic Parsing**  
+[[paper](http://www.cs.utexas.edu/users/ml/papers/lsp-cicling-07.pdf)]  
+*Raymond J. Mooney.* CICLing-2007
+
+1. **Learning Language Semantics from Ambiguous Supervision**  
+[[paper](https://www.aaai.org/Papers/AAAI/2007/AAAI07-142.pdf)]  
+*Rohit J. Kate and Raymond J. Mooney.* AAAI-2007.
+
+1. **Using String-Kernels for Learning Semantic Parsers**  
+[[paper](https://www.aclweb.org/anthology/P06-1115)] [[slides](http://www.cs.utexas.edu/~ml/slides/kate-acl06.ppt)]  
+*Rohit J. Kate and Raymond J. Mooney.* ACL-2006.
+
+1. **Discriminative Reranking for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P06-2034)]  
+*Ruifang Ge and Raymond J. Mooney.* ACL-2006.
+
+1. **Semantic Parsing with Structured SVM Ensemble Classification Models**  
+[[paper](https://www.aclweb.org/anthology/P06-2080)]  
+*Le-Minh Nguyen, Akira Shimazu, Xuan-Hieu Phan.* ACL-2006.
+
+1. **Learning for Semantic Parsing with Statistical Machine Translation**  
+[[paper](https://www.aclweb.org/anthology/N06-1056)]  
+*Yuk Wah Wong and Raymond J. Mooney.* NAACL-2006.
+
+1. **Learning to Transform Natural to Formal Languages**  
+[[paper](https://www.aaai.org/Papers/AAAI/2005/AAAI05-168.pdf)]  
+*Rohit J. Kate, Yuk Wah Wong, Raymond J. Mooney.* AAAI-2005.
 
 1. ****  
 [[paper]()]  
-*.*
+*.* ACL-2006.
 
 1. ****  
 [[paper]()]  
-*.*
+*.* ACL-2006.
 
 1. ****  
 [[paper]()]  
-*.*
+*.* ACL-2006.
 
 1. ****  
 [[paper]()]  
-*.*
-
-1. ****  
-[[paper]()]  
-*.*
+*.* ACL-2006.

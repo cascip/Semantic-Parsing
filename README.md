@@ -680,22 +680,30 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/N06-1056)]  
 *Yuk Wah Wong and Raymond J. Mooney.* NAACL-2006.
 
+1. **A Statistical Semantic Parser that Integrates Syntax and Semantics**  
+[[paper](https://www.aclweb.org/anthology/W05-0602)]  
+*Ruifang Ge and Raymond Mooney.* CoNLL-2005.
+
 1. **Learning to Transform Natural to Formal Languages**  
 [[paper](https://www.aaai.org/Papers/AAAI/2005/AAAI05-168.pdf)]  
 *Rohit J. Kate, Yuk Wah Wong, Raymond J. Mooney.* AAAI-2005.
 
-1. ****  
-[[paper]()]  
-*.* ACL-2006.
+1. **Learning to Map Sentences to Logical Form: Structured Classification with Probabilistic Categorial Grammars**  
+[[paper](https://homes.cs.washington.edu/~lsz/papers/zc-uai05.pdf)] [[slides](https://homes.cs.washington.edu/~lsz/papers/zc-uai05-slides.pdf)]  
+*Luke S. Zettlemoyer and Michael Collins.* UAI-2005.
 
-1. ****  
-[[paper]()]  
-*.* ACL-2006.
+1. **Using Multiple Clause Constructors in Inductive Logic Programming for Semantic Parsing**  
+[[paper](http://www.cs.utexas.edu/users/ml/papers/cocktail-ecml-01.pdf)]  
+*Lappoon R. Tang and Raymond J. Mooney.* ECML-2001.
 
-1. ****  
-[[paper]()]  
-*.* ACL-2006.
+1. **Automated Construction of Database Interfaces: Integrating Statistical and Relational Learning for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/W00-1317)]  
+*Lappoon R. Tang and Raymond J. Mooney.* EMNLP-2000.
 
-1. ****  
-[[paper]()]  
-*.* ACL-2006.
+1. **Automatic Construction of Semantic Lexicons for Learning Natural Language Interfaces**  
+[[paper](http://www.cs.utexas.edu/users/ml/papers/wolfie-aaai99.pdf)]  
+*Cynthia A. Thompson and Raymond J. Mooney.* AAAI-1999.
+
+1. **Learning to Parse Database Queries using Inductive Logic Programming**  
+[[paper](http://www.cs.utexas.edu/~ml/papers/chill-aaai-96.pdf)]  
+*John M. Zelle and Raymond J. Mooney.* AAAI-1996.

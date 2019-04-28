@@ -481,6 +481,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/P14-1091)]  
 *Junwei Bao, Nan Duan, Ming Zhou, Tiejun Zhao.* ACL-2014.
 
+1. **Learning to Automatically Solve Algebra Word Problems**  
+[[paper](https://www.aclweb.org/anthology/P14-1026)] [[slides](https://yoavartzi.com/pub/kazb-acl.2014.slides.pdf)]  
+*Nate Kushman, Yoav Artzi, Luke Zettlemoyer, Regina Barzilay.* ACL-2014.
+
 1. **Empirically-motivated Generalizations of CCG Semantic Parsing Learning Algorithms**  
 [[paper](https://www.aclweb.org/anthology/E14-1037)]  
 *Jesse Glass and Alexander Yates.* EACL-2014.
@@ -527,37 +531,57 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper (short)](https://www.aclweb.org/anthology/P13-2009)] [[code](https://github.com/jacobandreas/smt-semparse)]  
 *Jacob Andreas, Andreas Vlachos, Stephen Clark.* ACL-2013.
 
-1. ****  
-[[paper]()]  
-*.* ACL-2013.
+1. **Leveraging Domain-Independent Information in Semantic Parsing**  
+[[paper (short)](https://www.aclweb.org/anthology/P13-2082)]  
+*Dan Goldwasser and Dan Roth.* ACL-2013.
+
+1. **Paraphrase-Driven Learning for Open Question Answering**  
+[[paper](https://www.aclweb.org/anthology/P13-1158)] [[code](http://knowitall.cs.washington.edu/paralex/)]
+*Anthony Fader, Luke Zettlemoyer, Oren Etzioni.* ACL-2013.
+
+1. **Learning Dependency-Based Compositional Semantics**  
+[[paper](https://www.aclweb.org/anthology/J13-2005)]  
+*Percy Liang, Michael I. Jordan, Dan Klein.* CL-2013.
+
+1. **Semantic Parsing on Freebase from Question-Answer Pairs**  
+[[paper](https://www.aclweb.org/anthology/D13-1160)] [[code](https://nlp.stanford.edu/software/sempre/)]  
+*Jonathan Berant, Andrew Chou, Roy Frostig, Percy Liang.* EMNLP-2013.
+
+1. **Scaling Semantic Parsers with On-the-Fly Ontology Matching**  
+[[paper](https://www.aclweb.org/anthology/D13-1161)]  
+*Tom Kwiatkowski, Eunsol Choi, Yoav Artzi, Luke Zettlemoyer.* EMNLP-2013.
+
+1. **Semantic Parsing Freebase: Towards Open-domain Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/S13-1045)]  
+*Qingqing Cai and Alexander Yates.* \*SEM-2013.
+
+1. **Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions**  
+[[paper](https://www.aclweb.org/anthology/Q13-1005)] [[slides](https://yoavartzi.com/pub/az-tacl.2013.slides.pdf)] [[code](https://github.com/clic-lab/navi)]  
+*Yoav Artzi and Luke Zettlemoyer.* TACL-2013.
+
+### 2012
+
+1. **Semantic Parsing with Bayesian Tree Transducers**  
+[[paper](https://www.aclweb.org/anthology/P12-1051)]  
+*Bevan Jones, Mark Johnson, Sharon Goldwater.* ACL-2012.
+
+1. **Weakly Supervised Training of Semantic Parsers**  
+[[paper](https://www.aclweb.org/anthology/D12-1069)]  
+*Jayant Krishnamurthy and Tom Mitchell.* EMNLP-2012.
+
+1. **Light Textual Inference for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/C12-2098)]  
+*Kyle Richardson and Jonas Kuhn.* COLING-2012.
+
+1. **Learning Compositional Semantics for Open Domain Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/C12-1094)]  
+*Phong Le and Willem Zuidema.*
+
+### 2011
 
 1. ****  
 [[paper]()]  
-*.* ACL-2013.
-
-1. ****  
-[[paper]()]  
-*.* ACL-2013.
-
-1. ****  
-[[paper]()]  
-*.* ACL-2013.
-
-1. ****  
-[[paper]()]  
-*.* ACL-2013.
-
-1. ****  
-[[paper]()]  
-*.* ACL-2013.
-
-1. ****  
-[[paper]()]  
-*.* ACL-2013.
-
-1. ****  
-[[paper]()]  
-*.* ACL-2013.
+*.*
 
 1. ****  
 [[paper]()]  

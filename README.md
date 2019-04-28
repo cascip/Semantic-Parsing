@@ -575,9 +575,29 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 1. **Learning Compositional Semantics for Open Domain Semantic Parsing**  
 [[paper](https://www.aclweb.org/anthology/C12-1094)]  
-*Phong Le and Willem Zuidema.*
+*Phong Le and Willem Zuidema.* COLING-2012.
 
 ### 2011
+
+1. **A Bayesian Model for Unsupervised Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P11-1145)]  
+*Ivan Titov and Alexandre Klementiev.* ACL-2011.
+
+1. **Confidence Driven Unsupervised Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P11-1149)]  
+*Dan Goldwasser, Roi Reichart, James Clarke, Dan Roth.* ACL-2011.
+
+1. ****  
+[[paper]()]  
+*.*
+
+1. ****  
+[[paper]()]  
+*.*
+
+1. ****  
+[[paper]()]  
+*.*
 
 1. ****  
 [[paper]()]  

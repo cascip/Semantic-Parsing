@@ -2,7 +2,7 @@
 
 This repository provides resources for semantic parsing, including benchmark datasets, papers, tutorials, PhD theses, and framework tools.
 
-Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo@iscas.ac.cn) if you have any questions.
+Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo at iscas.ac.cn) if you have any questions.
 
 ## Tutorials about Semantic Parsing
 (ordered by year)

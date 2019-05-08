@@ -323,6 +323,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/S17-1020)] [[code](https://worksheets.codalab.org/worksheets/0x91d77db37e0a4bbbaeb37b8972f4784f/)]  
 *Alon Talmor, Mor Geva, Jonathan Berant.* \*Sem-2017.
 
+1. **Automated Template Generation for Question Answering over Knowledge Graphs**  
+[[paper](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p1191.pdf)]  
+*Abdalghani Abujabal, Mohamed Yahya, Mirek Riedewald, Gerhard Weikum.* WWW-2017.
+
 ### 2016
 
 1. **Data Recombination for Neural Semantic Parsing**  

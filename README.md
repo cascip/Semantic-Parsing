@@ -70,6 +70,10 @@ cite: Qingqing Cai and Alexander Yates. 2013. Large-scale Semantic Parsing via S
 [[website](https://github.com/ysu1989/GraphQuestions)]  
 cite: Yu Su, Huan Sun, Brian Sadler, Mudhakar Srivatsa, Izzeddin Gur¨, Zenghui Yan, Xifeng Yan. 2016. On Generating Characteristic-rich Question Sets for QA Evaluation. In EMNLP.
 
+1. **Spider**  
+[[website](https://yale-lily.github.io//spider)]  
+cite: Tao Yu, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang, Dragomir Radev. 2018. Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task. In EMNLP.
+
 1. **MSParS**  
 [[website](https://github.com/msra-nlc/MSParS)]  
 cite: 2019. MSParS: a Multi-perspective Semantic ParSing Dataset for Knowledge-based Question Answering.

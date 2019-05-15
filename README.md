@@ -222,7 +222,7 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 1. **Weakly-Supervised Neural Semantic Parsing with a Generative Ranker**  
 [[paper](https://www.aclweb.org/anthology/K18-1035)]  
-*Jianpeng Cheng and Mirella Lapata.* CoNLL-2018.
+*Jianpeng Cheng and Mirella Lapata.* EMNLP-CoNLL-2018.
 
 1. **Exploiting Rich Syntactic Information for Semantic Parsing with Graph-to-Sequence Model**  
 [[paper (short)](https://www.aclweb.org/anthology/D18-1110)]  

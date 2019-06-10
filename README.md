@@ -178,6 +178,14 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/J19-1002)]  
 *Jianpeng Cheng, Siva Reddy, Vijay Saraswat, Mirella Lapata.* CL-2019.
 
+1. **Iterative Search for Weakly Supervised Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/N19-1273)]  
+*Pradeep Dasigi, Matt Gardner, Shikhar Murty, Luke Zettlemoyer, Eduard Hovy.* NAACL-2019.
+
+1. **Context-Dependent Semantic Parsing over Temporally Structured Data**  
+[[paper](https://www.aclweb.org/anthology/N19-1360)]  
+*Charles Chen and Razvan Bunescu.* NAACL-2019.
+
 ### 2018
 
 1. **Semantic Parsing with Syntax- and Table-Aware SQL Generation**  

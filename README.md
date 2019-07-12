@@ -6,6 +6,10 @@ Contributed by [Bo Chen](https://github.com/dongpobeyond). Email him (chenbo at 
 
 ## Tutorials about Semantic Parsing
 (ordered by year)
+1. **开放域语义解析**  
+[[slides](http://www.icip.org.cn/zh/zh_resource/)]  
+*Xianpei Han, Bo Chen.* CIPS Summer School, 2019.
+
 1. **Neural Semantic Parsing**  
 [[slides](https://github.com/allenai/acl2018-semantic-parsing-tutorial)]  
 *Pradeep Dasigi, Srini Iyer, Alane Suhr, Matt Gardner, Luke Zettlemoyer.* ACL-2018.

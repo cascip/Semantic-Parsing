@@ -178,6 +178,58 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2019
+1. **Semantic Parsing with Dual Learning**  
+[[paper](https://www.aclweb.org/anthology/P19-1007)]  
+*Ruisheng Cao, Su Zhu, Chen Liu, Jieyu Li, Kai Yu.* ACL-2019.
+
+1. **Generating Logical Forms from Graph Representations of Text and Entities**  
+[[paper](https://www.aclweb.org/anthology/P19-1010)]  
+*Peter Shaw, Philip Massey, Angelica Chen, Francesco Piccinno, Yasemin Altun.* ACL-2019.
+
+1. **Coupling Retrieval and Meta-Learning for Context-Dependent Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P19-1082)]  
+*Daya Guo, Duyu Tang, Nan Duan, Ming Zhou, Jian Yin.* ACL-2019.
+
+1. **Jointly Learning Semantic Parser and Natural Language Generator via Dual Information Maximization**  
+[[paper](https://www.aclweb.org/anthology/P19-1201)]  
+*Hai Ye, Wenjie Li, Lu Wang.* ACL-2019.
+
+1. **Zero-Shot Semantic Parsing for Instructions**  
+[[paper](https://www.aclweb.org/anthology/P19-1438)] [[code](https://github.com/givoli/TechnionNLI)]  
+*Ofer Givoli and Roi Reichart.* ACL-2019.
+
+1. **Complex Question Decomposition for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P19-1440)]  
+*Haoyu Zhang, Jingjing Cai, Jianjun Xu, Ji Wang.* ACL-2019.
+
+1. **SParC: Cross-Domain Semantic Parsing in Context**  
+[[paper](https://www.aclweb.org/anthology/P19-1443)] [[website](https://yale-lily.github.io/sparc)]  
+*Tao Yu, Rui Zhang, Michihiro Yasunaga, Yi Chern Tan, Xi Victoria Lin, Suyi Li, Heyang Er, Irene Li, Bo Pang, Tao Chen, Emily Ji, Shreya Dixit, David Proctor, Sungrok Shim, Jonathan Kraft, Vincent Zhang, Caiming Xiong, Richard Socher, Dragomir Radev.* ACL-2019.
+
+1. **Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation**  
+[[paper](https://www.aclweb.org/anthology/P19-1444)] [[code](https://github.com/zhanzecheng/IRNet)]  
+*Jiaqi Guo, Zecheng Zhan, Yan Gao, Yan Xiao, Jian-Guang Lou, Ting Liu, Dongmei Zhang.* ACL-2019.
+
+1. **Reranking for Neural Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P19-1447)] [[code](http://pcyin.me/reranking)]  
+*Pengcheng Yin and Graham Neubig.* ACL-2019.
+
+1. **Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing**  
+[[paper](https://www.aclweb.org/anthology/P19-1448)] [[code](https://github.com/benbogin/)]  
+*Ben Bogin, Jonathan Berant, Matt Gardner.* ACL-2019.
+
+1. **Unified Semantic Parsing with Weak Supervision**  
+[[paper](https://www.aclweb.org/anthology/P19-1473)]  
+*Priyanka Agrawal, Ayushi Dalmia, Parag Jain, Abhishek Bansal, Ashish Mittal, Karthik Sankaranarayanan.* ACL-2019.
+
+1. **AdaNSP: Uncertainty-driven Adaptive Decoding in Neural Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/P19-1418)]  
+*Xiang Zhang, Shizhu He, Kang Liu, Jun Zhao.* ACL-2019.
+
+1. **Grammatical Sequence Prediction for Real-Time Neural Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/W19-3902)]  
+*Chunyang Xiao, Christoph Teichmann, Konstantine Arkoudas.* ACL-workshop-2019.
+
 1. **Learning an Executable Neural Semantic Parser**  
 [[paper](https://www.aclweb.org/anthology/J19-1002)]  
 *Jianpeng Cheng, Siva Reddy, Vijay Saraswat, Mirella Lapata.* CL-2019.

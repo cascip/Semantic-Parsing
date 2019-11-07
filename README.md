@@ -182,37 +182,33 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/D19-1104.pdf)]  
 *Zhichu Lu, Forough Arabshahi, Igor Labutov, Tom Mitchell.* EMNLP-2019.
 
-1. ****  
-[[paper]()]  
-*.* EMNLP-2019.
+1. **Span-based Hierarchical Semantic Parsing for Task-Oriented Dialog**  
+[[paper](https://www.aclweb.org/anthology/D19-1163.pdf)] [[code](https://github.com/ppasupat/factored-span-parsing)]  
+*Panupong Pasupat, Sonal Gupta, Karishma Mandyam, Rushin Shah, Mike Lewis, Luke Zettlemoyer.* EMNLP-2019.
 
-1. ****  
-[[paper]()]  
-*.* EMNLP-2019.
+1. **A Pilot Study for Chinese SQL Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/D19-1377.pdf)] [[code](https://github.com/taolusi/chisp)]  
+*Qingkai Min, Yuefeng Shi, Yue Zhang.* EMNLP-2019.
 
-1. ****  
-[[paper]()]  
-*.* EMNLP-2019.
+1. **Learning Semantic Parsers from Denotations with Latent Structured Alignments and Abstract Programs**  
+[[paper](https://www.aclweb.org/anthology/D19-1391.pdf)]  [[code](https://github.com/berlino/weaksp_em19)]  
+*Bailin Wang, Ivan Titov, Mirella Lapata.* EMNLP-2019.
 
-1. ****  
-[[paper]()]  
-*.* EMNLP-2019.
+1. **Broad-Coverage Semantic Parsing as Transduction**  
+[[paper](https://www.aclweb.org/anthology/D19-1392.pdf)]  
+*Sheng Zhang, Xutai Ma, Kevin Duh, Benjamin Van Durme.* EMNLP-2019.
 
-1. ****  
-[[paper]()]  
-*.* EMNLP-2019.
+1. **Don’t paraphrase, detect! Rapid and Effective Data Collection for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/D19-1394.pdf)] [[code](https://github.com/jonathanherzig/semantic-parsing-annotation)]  
+*Jonathan Herzig, Jonathan Berant.* EMNLP-2019.
 
-1. ****  
-[[paper]()]  
-*.* EMNLP-2019.
+1. **Learning Programmatic Idioms for Scalable Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/D19-1545.pdf)]  
+*Srinivasan Iyer, Alvin Cheung, Luke Zettlemoyer.* EMNLP-2019.
 
-1. ****  
-[[paper]()]  
-*.* EMNLP-2019.
-
-1. ****  
-[[paper]()]  
-*.* EMNLP-2019.
+1. **Model-based Interactive Semantic Parsing: A Unified Framework and A Text-to-SQL Case Study**  
+[[paper](https://www.aclweb.org/anthology/D19-1547.pdf)] [[code](https://github.com/sunlab-osu/MISP)]  
+*Ziyu Yao, Yu Su, Huan Sun, Wen-tau Yih.* EMNLP-2019.
 
 1. **Semantic Parsing with Dual Learning**  
 [[paper](https://www.aclweb.org/anthology/P19-1007)]  

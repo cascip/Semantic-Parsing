@@ -178,6 +178,42 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2019
+1. **Look-up and Adapt: A One-shot Semantic Parser**  
+[[paper](https://www.aclweb.org/anthology/D19-1104.pdf)]  
+*Zhichu Lu, Forough Arabshahi, Igor Labutov, Tom Mitchell.* EMNLP-2019.
+
+1. ****  
+[[paper]()]  
+*.* EMNLP-2019.
+
+1. ****  
+[[paper]()]  
+*.* EMNLP-2019.
+
+1. ****  
+[[paper]()]  
+*.* EMNLP-2019.
+
+1. ****  
+[[paper]()]  
+*.* EMNLP-2019.
+
+1. ****  
+[[paper]()]  
+*.* EMNLP-2019.
+
+1. ****  
+[[paper]()]  
+*.* EMNLP-2019.
+
+1. ****  
+[[paper]()]  
+*.* EMNLP-2019.
+
+1. ****  
+[[paper]()]  
+*.* EMNLP-2019.
+
 1. **Semantic Parsing with Dual Learning**  
 [[paper](https://www.aclweb.org/anthology/P19-1007)]  
 *Ruisheng Cao, Su Zhu, Chen Liu, Jieyu Li, Kai Yu.* ACL-2019.

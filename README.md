@@ -210,6 +210,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/D19-1547.pdf)] [[code](https://github.com/sunlab-osu/MISP)]  
 *Ziyu Yao, Yu Su, Huan Sun, Wen-tau Yih.* EMNLP-2019.
 
+1. **Leveraging Frequent Query Substructures to Generate Formal Queries for Complex Question Answering**  
+[[paper](https://www.aclweb.org/anthology/D19-1263.pdf)]  
+*Jiwei Ding, Wei Hu, Qixin Xu, Yuzhong Qu.* EMNLP-2019.
+
 1. **Semantic Parsing with Dual Learning**  
 [[paper](https://www.aclweb.org/anthology/P19-1007)]  
 *Ruisheng Cao, Su Zhu, Chen Liu, Jieyu Li, Kai Yu.* ACL-2019.

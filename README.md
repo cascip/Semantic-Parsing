@@ -179,7 +179,7 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 (ordered by year)
 ### 2019
 1. **Look-up and Adapt: A One-shot Semantic Parser**  
-[[paper](https://www.aclweb.org/anthology/D19-1104.pdf)]  
+[[paper](https://www.aclweb.org/anthology/D19-1104.pdf)] [[code](https://github.com/zhichul/lookup-and-adapt-parser-data)]  
 *Zhichu Lu, Forough Arabshahi, Igor Labutov, Tom Mitchell.* EMNLP-2019.
 
 1. **Span-based Hierarchical Semantic Parsing for Task-Oriented Dialog**  

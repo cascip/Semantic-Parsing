@@ -243,7 +243,7 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 *Tao Yu, Rui Zhang, Michihiro Yasunaga, Yi Chern Tan, Xi Victoria Lin, Suyi Li, Heyang Er, Irene Li, Bo Pang, Tao Chen, Emily Ji, Shreya Dixit, David Proctor, Sungrok Shim, Jonathan Kraft, Vincent Zhang, Caiming Xiong, Richard Socher, Dragomir Radev.* ACL-2019.
 
 1. **Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation**  
-[[paper](https://www.aclweb.org/anthology/P19-1444)] [[code](https://github.com/zhanzecheng/IRNet)]  
+[[paper](https://www.aclweb.org/anthology/P19-1444)] [[code](https://github.com/microsoft/IRNet)]  
 *Jiaqi Guo, Zecheng Zhan, Yan Gao, Yan Xiao, Jian-Guang Lou, Ting Liu, Dongmei Zhang.* ACL-2019.
 
 1. **Reranking for Neural Semantic Parsing**  

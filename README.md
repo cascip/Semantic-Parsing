@@ -179,30 +179,61 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 (ordered by year)
 
 ### 2020
+1. **CraftAssist Instruction Parsing: Semantic Parsing for a Voxel-World Assistant**  
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.427.pdf)] [[code](https://github.com/facebookresearch/craftassist/tree/master/acl2020_submission)]  
+*Kavya Srinet, Yacine Jernite, Jonathan Gray, arthur szlam.* ACL-2020.
+
+1. **Semantic Parsing for English as a Second Language**  
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.606.pdf)]  
+*Yuanyuan Zhao, Weiwei Sun, junjie cao, Xiaojun Wan.* ACL-2020.
+
+1. **Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.608.pdf)] [[code](https://github.com/rhythmcao/unsup-two-stage-semantic-parsing)]  
+*Ruisheng Cao, Su Zhu, Chenyu Yang, Chen Liu, Rao Ma, Yanbin Zhao, Lu Chen, Kai Yu.* ACL-2020.
+
+1. **Exploring Unexplored Generalization Challenges for Cross-Database Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.742.pdf)] [[code](https://github.com/google-research/language/tree/master/language/xsp)]  
+*Alane Suhr, Ming-Wei Chang, Peter Shaw, Kenton Lee.* ACL-2020.
+
+1. **Universal Decompositional Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.746.pdf)] [[website](http://decomp.io/)]  
+*Elias Stengel-Eskin, Aaron Steven White, Sheng Zhang, Benjamin Van Durme.* ACL-2020.
+
+1. **Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback**  
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.187.pdf)] [[data](https://aka.ms/Splash_dataset)]  
+*Ahmed Elgohary, saghar Hosseini, Ahmed Hassan Awadallah.* ACL-2020.
+
+1. **RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers**  
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.677.pdf)] [[code](https://github.com/Microsoft/rat-sql)]  
+*Bailin Wang, Richard Shin, Xiaodong Liu, Oleksandr Polozov, Matthew Richardson* ACL-2020.
+
+1. **Photon: A Robust Cross-Domain Text-to-SQL System**  
+[[paper](https://www.aclweb.org/anthology/2020.acl-demos.24.pdf)] [[demo](http://www.naturalsql.com/)]  
+*Jichuan Zeng, Xi Victoria Lin, Steven C.H. Hoi, Richard Socher, Caiming Xiong, Michael Lyu, Irwin King.* ACL-2020 demo.
+
 1. **Learning to Map Frequent Phrases to Sub-Structures of Meaning Representation for Neural Semantic Parsing**  
 [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6253)]  
 *Bo Chen, Xianpei Han, Ben He, Le Sun.* AAAI-2020.
 
-1. ****  
-[[paper]()]  
-** AAAI-2020.
+1. **Merging Weak and Active Supervision for Semantic Parsing**  
+[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6375)] [[code](https://github.com/niansong1996/wassp)]  
+*Ansong Ni, Pengcheng Yin, Graham Neubig.* AAAI-2020.
 
-1. ****  
-[[paper]()]  
-** AAAI-2020.
+1. **Graph-Based Transformer with Cross-Candidate Verification for Semantic Parsing**  
+[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6408)]  
+*Bo Shao, Yeyun Gong, Weizhen Qi, Guihong Cao, Jianshu Ji, Xiaola Lin.* AAAI-2020.
 
-1. ****  
-[[paper]()]  
-** AAAI-2020.
+1. **SPARQA: Skeleton-Based Semantic Parsing for Complex Questions over Knowledge Bases**  
+[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6426)] [[code](https://github.com/nju-websoft/SPARQA)]  
+*Yawei Sun, Lingling Zhang, Gong Cheng, Yuzhong Qu.* AAAI-2020.
 
-1. ****  
-[[paper]()]  
-** AAAI-2020.
+1. **Neural Semantic Parsing in Low-Resource Settings with Back-Translation and Meta-Learning**  
+[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6427)]  
+*Yibo Sun, Duyu Tang, Nan Duan, Yeyun Gong, Xiaocheng Feng, Bing Qin, Daxin Jiang.* AAAI-2020.
 
-1. ****  
-[[paper]()]  
-** AAAI-2020.
-
+1. **Zero-Shot Text-to-SQL Learning with Auxiliary Task**  
+[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6246)] [[code](https://github.com/JD-AI-Research-Silicon-Valley/auxiliary-task-for-text-to-sql)]  
+*Shuaichen Chang, Pengfei Liu, Yun Tang, Jing Huang, Xiaodong He, Bowen Zhou* AAAI-2020.
 
 ### 2019
 1. **Look-up and Adapt: A One-shot Semantic Parser**  

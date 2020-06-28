@@ -177,6 +177,33 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 ## Papers about Semantic Parsing
 (ordered by year)
+
+### 2020
+1. **Learning to Map Frequent Phrases to Sub-Structures of Meaning Representation for Neural Semantic Parsing**  
+[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6253)]  
+*Bo Chen, Xianpei Han, Ben He, Le Sun.* AAAI-2020.
+
+1. ****  
+[[paper]()]  
+** AAAI-2020.
+
+1. ****  
+[[paper]()]  
+** AAAI-2020.
+
+1. ****  
+[[paper]()]  
+** AAAI-2020.
+
+1. ****  
+[[paper]()]  
+** AAAI-2020.
+
+1. ****  
+[[paper]()]  
+** AAAI-2020.
+
+
 ### 2019
 1. **Look-up and Adapt: A One-shot Semantic Parser**  
 [[paper](https://www.aclweb.org/anthology/D19-1104.pdf)] [[code](https://github.com/zhichul/lookup-and-adapt-parser-data)]  

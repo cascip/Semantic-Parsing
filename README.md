@@ -722,7 +722,7 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 1. **Learning Dependency-Based Compositional Semantics**  
 [[paper](https://www.aclweb.org/anthology/J13-2005)]  
-*Percy Liang, Michael I. Jordan, Dan Klein.* CL-2013.
+*Percy Liang, Michael I. Jordan, Dan Klein.* ACL-2013.
 
 1. **Semantic Parsing on Freebase from Question-Answer Pairs**  
 [[paper](https://www.aclweb.org/anthology/D13-1160)] [[code](https://nlp.stanford.edu/software/sempre/)]  

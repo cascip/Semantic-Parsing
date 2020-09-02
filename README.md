@@ -812,7 +812,7 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/W08-2105)]  
 *Rohit Kate.* CoNLL-2008.
 
-1. **https://www.aclweb.org/anthology/C08-1140**  
+1. **A Hybrid Generative/Discriminative Framework to Train a Semantic Parser from an Un-annotated Corpus**  
 [[paper](https://www.aclweb.org/anthology/C08-1140)]  
 *Deyu Zhou and Yulan He.* COLING-2008.
 

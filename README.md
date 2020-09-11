@@ -101,6 +101,14 @@ cite: X.Victoria Lin, C. Wang, L. Zettlemoyer, M.D. Ernst. 2018. NL2Bash: A corp
 [[website](https://ppasupat.github.io/WikiTableQuestions/)]  
 cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on Semi-Structured Tables. In ACL.
 
+1. **SparC**  
+[[website](https://yale-lily.github.io/sparc)]  
+cite: Tao Yu and Rui Zhang and Michihiro Yasunaga and Yi Chern Tan and Xi Victoria Lin and Suyi Li and Heyang Er, Irene Li and Bo Pang and Tao Chen and Emily Ji and Shreya Dixit and David Proctor and Sungrok Shim and Jonathan Kraft, Vincent Zhang and Caiming Xiong and Richard Socher and Dragomir Radev. 2019. SParC: Cross-Domain Semantic Parsing in Context. In ACL.
+
+1. **CoSQL**  
+[[website](https://yale-lily.github.io/cosql)]  
+cite: Tao Yu, Rui Zhang, He Yang Er, Suyi Li, Eric Xue, Bo Pang, Xi Victoria Lin, Yi Chern Tan, Tianze Shi, Zihan Li, Youxuan Jiang, Michihiro Yasunaga, Sungrok Shim, Tao Chen, Alexander Fabbri, Zifan Li, Luyao Chen, Yuwen Zhang, Shreya Dixit, Vincent Zhang, Caiming Xiong, Richard Socher, Walter S Lasecki, Dragomir Radev. 2019. CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases. In EMNLP.
+
 ## PhD theses about Semantic Parsing
 (ordered by year)
 1. **The Lifecycle of Neural Semantic Parsing**  

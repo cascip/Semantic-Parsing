@@ -81,6 +81,22 @@ cite: Yu Su, Huan Sun, Brian Sadler, Mudhakar Srivatsa, Izzeddin Gur¨, Zenghui 
 [[website](https://yale-lily.github.io//spider)]  
 cite: Tao Yu, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang, Dragomir Radev. 2018. Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task. In EMNLP.
 
+1. **WikiSQL**  
+[[website](https://github.com/salesforce/WikiSQL)]  
+cite: Victor Zhong, Caiming Xiong, and Richard Socher. 2017. Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning. In CoRR.
+
+1. **CSpider**  
+[[website](https://taolusi.github.io/CSpider-explorer/)]  
+cite: Qingkai Min, Yuefeng Shi, Yue Zhang. 2019. A Pilot Study for Chinese SQL Semantic Parsing. In EMNLP.
+
+1. **Sparc**  
+[[website](https://yale-lily.github.io/sparc)]  
+cite: Tao Yu, Rui Zhang, Michihiro Yasunaga, Yi Chern Tan, Xi Victoria Lin, Suyi Li, Heyang Er, Irene Li, Bo Pang, Tao Chen, Emily Ji, Shreya Dixit, David Proctor, Sungrok Shim, Jonathan Kraft, Vincent Zhang, Caiming Xiong, Richard Socher, Dragomir Radev. 2019. SParC: Cross-Domain Semantic Parsing in Context. In ACL.
+
+1. **CoSQL**  
+[[website](https://yale-lily.github.io/cosql)]  
+cite: Tao Yu, Rui Zhang, He Yang Er, Suyi Li, Eric Xue, Bo Pang, Xi Victoria Lin, Yi Chern Tan, Tianze Shi, Zihan Li, Youxuan Jiang, Michihiro Yasunaga, Sungrok Shim, Tao Chen, Alexander Fabbri, Zifan Li, Luyao Chen, Yuwen Zhang, Shreya Dixit, Vincent Zhang, Caiming Xiong, Richard Socher, Walter S Lasecki, Dragomir Radev. 2019. CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases. In EMNLP.
+
 1. **SPADES**  
 [[website](https://github.com/sivareddyg/graph-parser)]  
 cite: Yonatan Bisk, Siva Reddy, John Blitzer, Julia Hockenmaier, Mark Steedman. 2016. Evaluating Induced CCG Parsers on Grounded Semantic Parsing. In EMNLP.

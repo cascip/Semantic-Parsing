@@ -179,6 +179,70 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 (ordered by year)
 
 ### 2020
+1. **AutoQA: From Databases to Q&A Semantic Parsers with Only Synthetic Training Data**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.31.pdf)] [[code](https://github.com/stanford-oval/thingtalk/releases/tag/v1.11.0)]  
+*Silei Xu, Sina Semnani, Giovanni Campagna, Monica Lam.* EMNLP-2020.
+
+1. **Benchmarking Meaning Representations in Neural Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.118.pdf)] [[code](https://github.com/JasperGuo/Unimer)]  
+*Jiaqi Guo, Qian Liu, Jian-Guang Lou, Zhenwen Li, Xueqing Liu, Tao Xie, Ting Liu.* EMNLP-2020.
+
+1. **Fast Semantic Parsing with Well-typedness Guarantees**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.323.pdf)] [[code](https://github.com/coli-saar/am-transition-parser)]  
+*Matthias Lindemann, Jonas Groschwitz, Alexander Koller.* EMNLP-2020.
+
+1. **Character-level Representations Still Improve Semantic Parsing in the Age of BERT**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.371.pdf)]  
+*Rik van Noord, Antonio Toral, Johan Bos.* EMNLP-2020.
+
+1. **Conversational Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.408.pdf)]  
+*Armen Aghajanyan, Jean Maillard, Akshat Shrivastava, Keith Diedrick, Michael Haeger, Haoran Li, Yashar Mehdad, Veselin Stoyanov, Anuj Kumar, Mike Lewis, Sonal Gupta.* EMNLP-2020.
+
+1. **Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.413.pdf)]  
+*Xilun Chen, Asish Ghoshal, Yashar Mehdad, Luke Zettlemoyer, Sonal Gupta.* EMNLP-2020.
+
+1. **Localizing Q&A Semantic Parsers for Any Language in a Day**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.481.pdf)]  
+*Mehrad Moradshahi, Giovanni Campagna, Sina Semnani, Silei Xu, Monica Lam.* EMNLP-2020.
+
+1. **Grounded Adaptation for Zero-shot Executable Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.558.pdf)]  
+*Victor Zhong, Mike Lewis, Sida I. Wang, Luke Zettlemoyer.* EMNLP-2020.
+
+1. **An Imitation Game for Learning Semantic Parsers from User Interaction**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.559.pdf)] [[code](https://github.com/sunlab-osu/MISP)]  
+*Ziyu Yao, Yiqi Tang, Wen-tau Yih, Huan Sun, Yu Su.* EMNLP-2020.
+
+1. **An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.577.pdf)] [[code](https://github.com/mnschmit/unsupervised-graph-text-conversion)]  
+*Martin Schmitt, Sahand Sharifzadeh, Volker Tresp, Hinrich Schütze.* EMNLP-2020.
+
+1. **Conversational Semantic Parsing for Dialog State Tracking**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.651.pdf)] [[dataset](https://github.com/apple/ml-tree-dst)]  
+*Jianpeng Cheng, Devang Agrawal, Héctor Martínez Alonso, Shruti Bhargava, Joris Driesen, Federico Flego, Dain Kaplan, Dimitri Kartsaklis, Lin Li, Dhivya Piraviperumal, Jason D. Williams, Hong Yu, Diarmuid Ó Séaghdha, Anders Johannsen.* EMNLP-2020.
+
+1. **Don’t Parse, Insert: Multilingual Semantic Parsing with Insertion Based Decoding**  
+[[paper](https://www.aclweb.org/anthology/2020.conll-1.40.pdf)]  
+*Qile Zhu, Haidar Khan, Saleh Soltan, Stephen Rawls, Wael Hamza.* EMNLP-2020.
+
+1. **IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.560.pdf)] [[code](https://github.com/headacheboy/IGSQL)]  
+*Yitao Cai, Xiaojun Wan.* EMNLP-2020.
+
+1. **“What Do You Mean by That?” - a Parser-Independent Interactive Approach for Enhancing Text-to-SQL**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.561.pdf)]  
+*Yuntao Li, Bei Chen, Qian Liu, Yan Gao, Jian-Guang Lou, Yan Zhang, Dongmei Zhang.* EMNLP-2020.
+
+1. **ChiTeSQL: A Large-Scale and Pragmatic Chinese Text-to-SQL Dataset**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.562.pdf)] [[dataset](https://github.com/luge-ai/luge-ai/tree/master/semantic-parsing)]  
+*Lijie Wang, Ao Zhang, Kun Wu, Ke Sun, Zhenghua Li, Hua Wu, Min Zhang, Haifeng Wang.* EMNLP-2020.
+
+1. **Re-examining the Role of Schema Linking in Text-to-SQL**  
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.564.pdf)] [[code](https://github.com/WING-NUS/slsql)]  
+*Wenqiang Lei, Weixin Wang, Zhixin Ma, Tian Gan, Wei Lu, Min-Yen Kan, Tat-Seng Chua.* EMNLP-2020.
+
 1. **CraftAssist Instruction Parsing: Semantic Parsing for a Voxel-World Assistant**  
 [[paper](https://www.aclweb.org/anthology/2020.acl-main.427.pdf)] [[code](https://github.com/facebookresearch/craftassist/tree/master/acl2020_submission)]  
 *Kavya Srinet, Yacine Jernite, Jonathan Gray, arthur szlam.* ACL-2020.

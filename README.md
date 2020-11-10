@@ -289,7 +289,19 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 1. **RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers**  
 [[paper](https://www.aclweb.org/anthology/2020.acl-main.677.pdf)] [[code](https://github.com/Microsoft/rat-sql)]  
-*Bailin Wang, Richard Shin, Xiaodong Liu, Oleksandr Polozov, Matthew Richardson* ACL-2020.
+*Bailin Wang, Richard Shin, Xiaodong Liu, Oleksandr Polozov, Matthew Richardson.* ACL-2020.
+
+1. **TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data**  
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.745.pdf)] [[code](https://github.com/facebookresearch/TaBERT)]  
+*Pengcheng Yin, Graham Neubig, Wen-tau Yih, Sebastian Riedel.* ACL-2020.
+
+1. **TaPas: Weakly Supervised Table Parsing via Pre-training**  
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.398.pdf)] [[code](https://github.com/google-research/tapas)]  
+*Jonathan Herzig, Pawel Krzysztof Nowak, Thomas Müller, Francesco Piccinno, Julian Eisenschlos.* ACL-2020.
+
+1. **https://www.aclweb.org/anthology/2020.acl-srw.42.pdf**  
+[[paper](Compositional generalization by factorizing alignment and translation)]  
+*Jacob Russin, Jason Jo, Randall O’Reilly, Yoshua Bengio.* ACL-2020 Student Research Workshop.
 
 1. **Photon: A Robust Cross-Domain Text-to-SQL System**  
 [[paper](https://www.aclweb.org/anthology/2020.acl-demos.24.pdf)] [[demo](http://www.naturalsql.com/)]  

@@ -113,6 +113,10 @@ cite: Pengcheng Yin, Bowen Deng, Edgar Chen, Bogdan Vasilescu, and Graham Neubig
 [[website](https://github.com/TellinaTool/nl2bash)]  
 cite: X.Victoria Lin, C. Wang, L. Zettlemoyer, M.D. Ernst. 2018. NL2Bash: A corpus and semantic parser for natural language interface to the Linux operating system. In LREC: Language Resources and Evaluation Conference.
 
+1. **SCAN**  
+[[website](https://github.com/brendenlake/SCAN)]  
+cite: Lake, B. M. and Baroni, M. 2018. Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks. In ICML.
+
 1. **WikiTableQuestions**  
 [[website](https://ppasupat.github.io/WikiTableQuestions/)]  
 cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on Semi-Structured Tables. In ACL.

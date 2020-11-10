@@ -299,8 +299,8 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/2020.acl-main.398.pdf)] [[code](https://github.com/google-research/tapas)]  
 *Jonathan Herzig, Pawel Krzysztof Nowak, Thomas Müller, Francesco Piccinno, Julian Eisenschlos.* ACL-2020.
 
-1. **https://www.aclweb.org/anthology/2020.acl-srw.42.pdf**  
-[[paper](Compositional generalization by factorizing alignment and translation)]  
+1. **Compositional generalization by factorizing alignment and translation**  
+[[paper](https://www.aclweb.org/anthology/2020.acl-srw.42.pdf)]  
 *Jacob Russin, Jason Jo, Randall O’Reilly, Yoshua Bengio.* ACL-2020 Student Research Workshop.
 
 1. **Photon: A Robust Cross-Domain Text-to-SQL System**  

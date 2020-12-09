@@ -199,6 +199,26 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 (ordered by year)
 
 ### 2020
+1. **Context Dependent Semantic Parsing: A Survey**  
+[[paper](https://www.aclweb.org/anthology/2020.coling-main.226.pdf)] [[resource](https://github.com/zhuang-li/Contextual-Semantic-Parsing-Paper-List)]  
+*Zhuang Li, Lizhen Qu, Gholamreza Haffari.* COLING-2020.
+
+1. **Modelling Long-distance Node Relations for KBQA with Global Dynamic Graph**  
+[[paper](https://www.aclweb.org/anthology/2020.coling-main.231.pdf)]  
+*Xu Wang, Shuai Zhao, Jiale Han, Bo Cheng, Hao Yang, Jianchang Ao, Zhenzi Li.* COLING-2020.
+
+1. **A Tale of Two Linkings: Dynamically Gating between Schema Linking and Structural Linking for Text-to-SQL Parsing**  
+[[paper](https://www.aclweb.org/anthology/2020.coling-main.260.pdf)] [[code](https://github.com/sanxing-chen/linking-tale)]  
+*Sanxing Chen, Aidan San, Xiaodong Liu, Yangfeng Ji.* COLING-2020.
+
+1. **Multi-level Alignment Pretraining for Multi-lingual Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2020.coling-main.289.pdf)]  
+*Bo Shao, Yeyun Gong, Weizhen Qi, Nan Duan, Xiaola Lin.* COLING-2020.
+
+1. **PG-GSQL: Pointer-Generator Network with Guide Decoding for Cross-Domain Context-Dependent Text-to-SQL Generation**  
+[[paper](https://www.aclweb.org/anthology/2020.coling-main.33.pdf)] [[code](https://github.com/cfhaiteeh/PG-GSQL)]  
+*Huajie Wang, Mei Li, Lei Chen.* COLING-2020.
+
 1. **AutoQA: From Databases to Q&A Semantic Parsers with Only Synthetic Training Data**  
 [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.31.pdf)] [[code](https://github.com/stanford-oval/thingtalk/releases/tag/v1.11.0)]  
 *Silei Xu, Sina Semnani, Giovanni Campagna, Monica Lam.* EMNLP-2020.

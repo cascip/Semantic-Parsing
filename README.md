@@ -814,6 +814,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://www.aclweb.org/anthology/C14-1122)]  
 *Zhanming Jie and Wei Lu.* COLING-2014.
 
+1. **Natural language question answering over RDF: a graph data driven approach**  
+[[paper](https://www.icst.pku.edu.cn/leizou/docs/2018-11/20181121155154425150.pdf)]  
+*Lei Zou, Ruizhe Huang, Haixun Wang, Jeffrey Xu Yu, Wenqiang He, Dongyan Zhao.* SIGMOD-2014.
+
 ### 2013
 
 1. **Large-scale Semantic Parsing via Schema Matching and Lexicon Extension**  

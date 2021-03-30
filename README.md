@@ -70,7 +70,7 @@ Deborah Dahl, Madeleine Bates, Michael Brown, William Fisher, Kate Hunicke-Smith
 cite: Jonathan Berant, Andrew Chou, Roy Frostig, Percy Liang. 2013. Semantic parsing on Freebase from question-answer pairs. In EMNLP.
 
 1. **Free917**  
-[[website](https://nlp.stanford.edu/software/sempre/)]
+[[website](https://nlp.stanford.edu/software/sempre/)]  
 cite: Qingqing Cai and Alexander Yates. 2013. Large-scale Semantic Parsing via Schema Matching and Lexicon Extension. In ACL.
 
 1. **GraphQuestions**  

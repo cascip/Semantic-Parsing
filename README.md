@@ -351,6 +351,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6246)] [[code](https://github.com/JD-AI-Research-Silicon-Valley/auxiliary-task-for-text-to-sql)]  
 *Shuaichen Chang, Pengfei Liu, Yun Tang, Jing Huang, Xiaodong He, Bowen Zhou* AAAI-2020.
 
+1. **Domain Adaptation for Semantic Parsing**  
+[[paper](https://www.ijcai.org/Proceedings/2020/0515.pdf)] [[code](https://github.com/zechagl/DAMP)]  
+*Zechang Li , Yuxuan Lai , Yansong Feng and Dongyan Zhao.* IJCAI-2020.
+
 ### 2019
 1. **Look-up and Adapt: A One-shot Semantic Parser**  
 [[paper](https://www.aclweb.org/anthology/D19-1104.pdf)] [[code](https://github.com/zhichul/lookup-and-adapt-parser-data)]  

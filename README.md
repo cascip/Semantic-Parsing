@@ -197,6 +197,14 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 ## Papers about Semantic Parsing
 (ordered by year)
+### 2021
+1. **Few-Shot Semantic Parsing for New Predicates**  
+[[paper](https://www.aclweb.org/anthology/2021.eacl-main.109.pdf)] [[code](https://github.com/zhuang-li/few-shot-semantic-parsing)]  
+*Zhuang Li, Lizhen Qu, Shuo Huang, Gholamreza Haffari.* EACL-2021.
+
+1. **On Robustness of Neural Semantic Parsers**  
+[[paper](https://www.aclweb.org/anthology/2021.eacl-main.292.pdf)] [[code](https://github.com/shuo956/On-Robustness-of-nerual-smentic-parsing)]  
+*Shuo Huang, Zhuang Li, Lizhen Qu, Lei Pan.* EACL-2021.
 
 ### 2020
 1. **Context Dependent Semantic Parsing: A Survey**  

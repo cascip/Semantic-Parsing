@@ -198,6 +198,46 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2021
+1. **SmBoP: Semi-autoregressive Bottom-up Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2021.naacl-main.29.pdf)] [[code](https://github.com/OhadRubin/SmBop)]  
+*Ohad Rubin, Jonathan Berant.* NAACL-2021.
+
+1. **SGL: Speaking the Graph Languages of Semantic Parsing via Multilingual Translation**  
+[[paper](https://www.aclweb.org/anthology/2021.naacl-main.30.pdf)] [[code](https://github.com/SapienzaNLP/sgl)]  
+*Luigi Procopio, Rocco Tripodi, Roberto Navigli.* NAACL-2021.
+
+1. **Meta-Learning for Domain Generalization in Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2021.naacl-main.33.pdf)] [[code](https://github.com/berlino/tensor2struct-public)]  
+*Bailin Wang, Mirella Lapata, Ivan Titov.* NAACL-2021.
+
+1. **Learning from Executions for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2021.naacl-main.219.pdf)] [[code](https://github.com/berlino/tensor2struct-public)]  
+*Bailin Wang, Mirella Lapata, Ivan Titov.* NAACL-2021.
+
+1. **Learning to Synthesize Data for Semantic Parsing**  
+[[paper](https://www.aclweb.org/anthology/2021.naacl-main.220.pdf)] [[code](https://github.com/berlino/tensor2struct-public)]  
+*Bailin Wang, Wenpeng Yin, Xi Victoria Lin, Caiming Xiong.* NAACL-2021.
+
+1. **Compositional Generalization for Neural Semantic Parsing via Span-level Supervised Attention**  
+[[paper](https://www.aclweb.org/anthology/2021.naacl-main.225.pdf)]  
+*Pengcheng Yin, Hao Fang, Graham Neubig, Adam Pauls, Emmanouil Antonios Platanios, Yu Su, Sam Thomson, Jacob Andreas.* NAACL-2021.
+
+1. **NL-EDIT: Correcting Semantic Parse Errors through Natural Language Interaction**  
+[[paper](https://www.aclweb.org/anthology/2021.naacl-main.444.pdf)] [[code](http://aka.ms/NLEdit)]  
+*Ahmed Elgohary, Christopher Meek, Matthew Richardson, Adam Fourney, Gonzalo Ramos, Ahmed Hassan Awadallah.* NAACL-2021.
+
+1. **DuoRAT: Towards Simpler Text-to-SQL Models**  
+[[paper](https://www.aclweb.org/anthology/2021.naacl-main.103.pdf)] [[code](https://github.com/ElementAI/duorat)]  
+*Torsten Scholak, Raymond Li, Dzmitry Bahdanau, Harm de Vries, Chris Pal.* NAACL-2021.
+
+1. **Structure-Grounded Pretraining for Text-to-SQL**  
+[[paper](https://www.aclweb.org/anthology/2021.naacl-main.105.pdf)] [[code](https://aka.ms/strug)]  
+*Xiang Deng, Ahmed Hassan Awadallah, Christopher Meek, Oleksandr Polozov, Huan Sun, Matthew Richardson.* NAACL-2021.
+
+1. **ShadowGNN: Graph Projection Neural Network for Text-to-SQL Parser**  
+[[paper](https://www.aclweb.org/anthology/2021.naacl-main.441.pdf)] [[code](https://github.com/WowCZ/shadowgnn)]  
+*Zhi Chen, Lu Chen, Yanbin Zhao, Ruisheng Cao, Zihan Xu, Su Zhu, Kai Yu.* NAACL-2021.
+
 1. **Few-Shot Semantic Parsing for New Predicates**  
 [[paper](https://www.aclweb.org/anthology/2021.eacl-main.109.pdf)] [[code](https://github.com/zhuang-li/few-shot-semantic-parsing)]  
 *Zhuang Li, Lizhen Qu, Shuo Huang, Gholamreza Haffari.* EACL-2021.

@@ -198,6 +198,58 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2021
+1. **Span-based Semantic Parsing for Compositional Generalization**  
+[[paper](https://aclanthology.org/2021.acl-long.74.pdf)] [[code](https://github.com/jonathanherzig/span-based-sp)]  
+*Jonathan Herzig, Jonathan Berant.* ACL-2021.
+
+1. **Compositional Generalization and Natural Language Variation: Can a Semantic Parsing Approach Handle Both?**  
+[[paper](https://aclanthology.org/2021.acl-long.75.pdf)] [[code](https://github.com/google-research/language/tree/master/language/nqg)]  
+*Peter Shaw, Ming-Wei Chang, Panupong Pasupat, Kristina Toutanova.* ACL-2021.
+
+1. **Value-Agnostic Conversational Semantic Parsing**  
+[[paper](https://aclanthology.org/2021.acl-long.284.pdf)]  
+*Emmanouil Antonios Platanios, Adam Pauls, Subhro Roy, Yuchen Zhang, Alexander Kyte, Alan Guo, Sam Thomson, Jayant Krishnamurthy, Jason Wolfe, Jacob Andreas, Dan Klein.* ACL-2021.
+
+1. **From Paraphrasing to Semantic Parsing: Unsupervised Semantic Parsing via Synchronous Semantic Decoding**  
+[[paper](https://aclanthology.org/2021.acl-long.397.pdf)] [[code](https://github.com/lingowu/ssd)]  
+*Shan Wu, Bo Chen, Chunlei Xin, Xianpei Han, Le Sun, Weipeng Zhang, Jiansong Chen, Fan Yang, Xunliang Cai.* ACL-2021.
+
+1. **Enforcing Consistency in Weakly Supervised Semantic Parsing**  
+[[paper](https://aclanthology.org/2021.acl-short.22.pdf)] [[code](https://github.com/nitishgupta/allennlp-semparse/tree/nlvr-v2/scripts/nlvr_v2)]  
+*Nitish Gupta, Sameer Singh, Matt Gardner.* ACL-2021.
+
+1. **Chase: A Large-Scale and Pragmatic Chinese Dataset for Cross-Database Context-Dependent Text-to-SQL**  
+[[paper](https://aclanthology.org/2021.acl-long.180.pdf)] [[website](https://xjtu-intsoft.github.io/chase/)]  
+*Jiaqi Guo, Ziliang Si, Yu Wang, Qian Liu, Ming Fan, Jian-Guang Lou, Zijiang Yang, Ting Liu.* ACL-2021.
+
+1. **Towards Robustness of Text-to-SQL Models against Synonym Substitution**  
+[[paper](https://aclanthology.org/2021.acl-long.195.pdf)] [[code](https://github.com/ygan/Spider-Syn)]  
+*Yujian Gan, Xinyun Chen, Qiuping Huang, Matthew Purver, John R. Woodward, Jinxia Xie, Pengsheng Huang.* ACL-2021.
+
+1. **LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations**  
+[[paper](https://aclanthology.org/2021.acl-long.198.pdf)] [[code](https://github.com/rhythmcao/text2sql-lgesql)]  
+*Ruisheng Cao, Lu Chen, Zhi Chen, Yanbin Zhao, Su Zhu and Kai Yu.* ACL-2021.
+
+1. **Meta-Learning to Compositionally Generalize**  
+[[paper](https://aclanthology.org/2021.acl-long.258.pdf)] [[code](https://github.com/berlino/tensor2struct-public)]  
+*Henry Conklin, Bailin Wang, Kenny Smith and Ivan Titov.* ACL-2021.
+
+1. **A Semantics-aware Transformer Model of Relation Linking for Knowledge Base Question Answering**  
+[[paper](https://aclanthology.org/2021.acl-short.34.pdf)]  
+*Tahira Naseem, Srinivas Ravishankar, Nandana Mihindukulasooriya, Ibrahim Abdelaziz, Young-Suk Lee, Pavan Kapanipathi, Salim Roukos, Alfio Gliozzo and Alexander Gray.* ACL-2021.
+
+1. **Awakening Latent Grounding from Pretrained Language Models for Semantic Parsing**  
+[[paper](https://aclanthology.org/2021.findings-acl.100.pdf)] [[code](https://github.com/microsoft/ContextualSP)]  
+*Qian Liu, Dejian Yang, Jiahui Zhang, Jiaqi Guo, Bin Zhou, Jian-Guang Lou.* ACL-finding-2021.
+
+1. **Grammar-Constrained Neural Semantic Parsing with LR Parsers**  
+[[paper](https://aclanthology.org/2021.findings-acl.108.pdf)]  
+*Artur Baranowski, Nico Hochgeschwender.* ACL-finding-2021.
+
+1. **Decoupled Dialogue Modeling and Semantic Parsing for Multi-Turn Text-to-SQL**  
+[[paper](https://aclanthology.org/2021.findings-acl.270.pdf)]  
+*Zhi Chen, Lu Chen, Hanqi Li, Ruisheng Cao, Da Ma, Mengyue Wu, Kai Yu.* ACL-finding-2021.
+
 1. **SmBoP: Semi-autoregressive Bottom-up Semantic Parsing**  
 [[paper](https://www.aclweb.org/anthology/2021.naacl-main.29.pdf)] [[code](https://github.com/OhadRubin/SmBop)]  
 *Ohad Rubin, Jonathan Berant.* NAACL-2021.

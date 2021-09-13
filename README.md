@@ -198,6 +198,22 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2021
+1. **Tracking Interaction States for Multi-Turn Text-to-SQL Semantic Parsing**  
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17646/17453)] [[code](https://github.com/runzewang/IST-SQL)]  
+*Run-Ze Wang, Zhen-Hua Ling, Jingbo Zhou, Yu Hu.* AAAI-2021.
+
+1. **Learning Contextual Representations for Semantic Parsing with Generation-Augmented Pre-Training**  
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17627/17434)] [[code](https://github.com/awslabs/gap-text2sql)]  
+*Peng Shi, Patrick Ng, Zhiguo Wang, Henghui Zhu, Alexander Hanbo Li, Jun Wang, Cicero Nogueira dos Santos, Bing Xiang.* AAAI-2021.
+
+1. **Iterative Utterance Segmentation for Neural Semantic Parsing**  
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17530/17337)]  
+*Yinuo Guo, Zeqi Lin, Jian-Guang Lou, Dongmei Zhang.* AAAI-2021.
+
+1. **Dynamic Hybrid Relation Exploration Network for Cross-Domain Context-Dependent Semantic Parsing**  
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17550/17357)] [[code](https://github.com/huybery/r2sql)]  
+*Binyuan Hui, Ruiying Geng, Qiyu Ren, Binhua Li, Yongbin Li, Jian Sun, Fei Huang, Luo Si, Pengfei Zhu, Xiaodan Zhu.* AAAI-2021.
+
 1. **Span-based Semantic Parsing for Compositional Generalization**  
 [[paper](https://aclanthology.org/2021.acl-long.74.pdf)] [[code](https://github.com/jonathanherzig/span-based-sp)]  
 *Jonathan Herzig, Jonathan Berant.* ACL-2021.

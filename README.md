@@ -125,7 +125,7 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 (ordered by year)
 1. **Learning Structured Neural Semantic Parsers**  
 [[thesis](https://www.lti.cs.cmu.edu/sites/default/files/yin%2C%20pengcheng%20-%20Thesis.pdf)]  
-**Pengcheng Yin**, advisor: Graham Neubig, Carnegie Mellon University, 2019.
+**Pengcheng Yin**, advisor: Graham Neubig, Carnegie Mellon University, 2021.
 
 1. **The Lifecycle of Neural Semantic Parsing**  
 [[thesis](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/35554/Cheng2019.pdf?sequence=1&isAllowed=y)]  

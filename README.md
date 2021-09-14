@@ -206,6 +206,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17646/17453)] [[code](https://github.com/runzewang/IST-SQL)]  
 *Run-Ze Wang, Zhen-Hua Ling, Jingbo Zhou, Yu Hu.* AAAI-2021.
 
+1. **Leveraging Table Content for Zero-shot Text-to-SQL with Meta-Learning**  
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16519/16326)]  
+*Yongrui Chen, Xinnan Guo, Chaojie Wang, Jian Qiu, Guilin Qi, Meng Wang, Huiying Li.* AAAI-2021.
+
 1. **Learning Contextual Representations for Semantic Parsing with Generation-Augmented Pre-Training**  
 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17627/17434)] [[code](https://github.com/awslabs/gap-text2sql)]  
 *Peng Shi, Patrick Ng, Zhiguo Wang, Henghui Zhu, Alexander Hanbo Li, Jun Wang, Cicero Nogueira dos Santos, Bing Xiang.* AAAI-2021.

@@ -202,6 +202,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2021
+1. **Keep the Structure: A Latent Shift-Reduce Parser for Semantic Parsing**  
+[[paper](https://www.ijcai.org/proceedings/2021/0532.pdf)]  
+*Yuntao Li, Bei Chen, Qian Liu, Yan Gao, Jian-Guang Lou, Yan Zhang, Dongmei Zhang.* IJCAI-2021.
+
 1. **Tracking Interaction States for Multi-Turn Text-to-SQL Semantic Parsing**  
 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17646/17453)] [[code](https://github.com/runzewang/IST-SQL)]  
 *Run-Ze Wang, Zhen-Hua Ling, Jingbo Zhou, Yu Hu.* AAAI-2021.

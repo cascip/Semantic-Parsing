@@ -202,6 +202,70 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2021
+1. **Total Recall: a Customized Continual Learning Method for Neural Semantic Parsers**  
+[[paper](https://aclanthology.org/2021.emnlp-main.310.pdf)] [[code](https://github.com/zhuang-li/cl_nsp)]  
+*Zhuang Li, Lizhen Qu, Gholamreza Haffari.* EMNLP-2021.
+
+1. **A Graph-Based Neural Model for End-to-End Frame Semantic Parsing**  
+[[paper](https://aclanthology.org/2021.emnlp-main.314.pdf)] [[code](https://github.com/Ch4osMy7h/FramenetParser)]  
+*ZhiChao Lin, Yueheng Sun, Meishan Zhang.* EMNLP-2021.
+
+1. **Controllable Semantic Parsing via Retrieval Augmentation**  
+[[paper](https://aclanthology.org/2021.emnlp-main.607.pdf)] [[code](https://casperparser.page.link/code)]  
+*Panupong Pasupat, Yuan Zhang, Kelvin Guu.* EMNLP-2021.
+
+1. **Constrained Language Models Yield Few-Shot Semantic Parsers**  
+[[paper](https://aclanthology.org/2021.emnlp-main.608.pdf)] [[code](https://github.com/microsoft/semantic_parsing_with_constrained_lm)]  
+*Richard Shin, Christopher Lin, Sam Thomson, Charles Chen, Subhro Roy, Emmanouil Antonios Platanios, Adam Pauls, Dan Klein, Jason Eisner, Benjamin Van Durme.* EMNLP-2021.
+
+1. **Exploring Underexplored Limitations of Cross-Domain Text-to-SQL Generalization**  
+[[paper](https://aclanthology.org/2021.emnlp-main.702.pdf)]  
+*Yujian Gan, Xinyun Chen, Matthew Purver.* EMNLP-2021.
+
+1. **Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing**  
+[[paper](https://aclanthology.org/2021.emnlp-main.707.pdf)]  
+*Kun Wu, Lijie Wang, Zhenghua Li, Ao Zhang, Xinyan Xiao, Hua Wu, Min Zhang, Haifeng Wang.* EMNLP-2021.
+
+1. **SPARQLing Database Queries from Intermediate Question Decompositions**  
+[[paper](https://aclanthology.org/2021.emnlp-main.708.pdf)] [[code](https://github.com/yandex-research/sparqling-queries)]  
+*Irina Saparina, Anton Osokin.* EMNLP-2021.
+
+1. **Structured Context and High-Coverage Grammar for Conversational Question Answering over Knowledge Graphs**  
+[[paper](https://aclanthology.org/2021.emnlp-main.695.pdf)]  
+*Pierre Marion, Pawel Nowak, Francesco Piccinno.* EMNLP-2021.
+
+1. **Finding needles in a haystack: Sampling Structurally-diverse Training Sets from Synthetic Data for Compositional Generalization**  
+[[paper](https://aclanthology.org/2021.emnlp-main.843.pdf)] [[code](https://github.com/inbaroren/scfg-sampling-for-comp-gen)]  
+*Inbar Oren, Jonathan Herzig, Jonathan Berant.* EMNLP-2021.
+
+1. **Detecting Compositionally Out-of-Distribution Examples in Semantic Parsing**  
+[[paper](https://aclanthology.org/2021.findings-emnlp.54.pdf)] [[code](https://github.com/lukovnikov/parseq/tree/emnlpcr/)]  
+*Denis Lukovnikov, Sina Daubener, Asja Fischer.* EMNLP-finding-2021.
+
+1. **Span Pointer Networks for Non-Autoregressive Task-Oriented Semantic Parsing**  
+[[paper](https://aclanthology.org/2021.findings-emnlp.161.pdf)]  
+*Akshat Shrivastava, Pierce Chuang, Arun Babu, Shrey Desai, Abhinav Arora, Alexander Zotov, Ahmed Aly.* EMNLP-finding-2021.
+
+1. **Few-Shot Novel Concept Learning for Semantic Parsing**  
+[[paper](https://aclanthology.org/2021.findings-emnlp.177.pdf)]  
+*Soham Dan, Osbert Bastani, Dan Roth.* EMNLP-finding-2021.
+
+1. **Weakly Supervised Semantic Parsing by Learning from Mistakes**  
+[[paper](https://aclanthology.org/2021.findings-emnlp.222.pdf)]  
+*Jiaqi Guo, Jian-Guang Lou, Ting Liu, Dongmei Zhang.* EMNLP-finding-2021.
+
+1. **Translate & Fill: Improving Zero-Shot Multilingual Semantic Parsing with Synthetic Data**  
+[[paper](https://aclanthology.org/2021.findings-emnlp.279.pdf)]  
+*Massimo Nicosia, Zhongdi Qu, Yasemin Altun.* EMNLP-finding-2021.
+
+1. **Graph-Based Decoding for Task Oriented Semantic Parsing**  
+[[paper](https://aclanthology.org/2021.findings-emnlp.341.pdf)]  
+*Jeremy Cole, Nanjiang Jiang, Panupong Pasupat, Luheng He, Peter Shaw.* EMNLP-finding-2021.
+
+1. **Compositional Generalization via Semantic Tagging**  
+[[paper](https://aclanthology.org/2021.findings-emnlp.88.pdf)] [[code](https://github.com/mswellhao/Semantic-Tagging)]  
+*Hao Zheng, Mirella Lapata.* EMNLP-finding-2021.
+
 1. **Keep the Structure: A Latent Shift-Reduce Parser for Semantic Parsing**  
 [[paper](https://www.ijcai.org/proceedings/2021/0532.pdf)]  
 *Yuntao Li, Bei Chen, Qian Liu, Yan Gao, Jian-Guang Lou, Yan Zhang, Dongmei Zhang.* IJCAI-2021.

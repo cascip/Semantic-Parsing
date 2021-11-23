@@ -123,6 +123,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 ## PhD theses about Semantic Parsing
 (ordered by year)
+1. **Learning to Map Natural Language to Executable Programs over Databases**  
+[[thesis](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1138&context=gsas_dissertations)]  
+**Tao Yu**, advisor: Dragomir Radev, Yale University, 2021.
+
 1. **Learning Structured Neural Semantic Parsers**  
 [[thesis](https://www.lti.cs.cmu.edu/sites/default/files/yin%2C%20pengcheng%20-%20Thesis.pdf)]  
 **Pengcheng Yin**, advisor: Graham Neubig, Carnegie Mellon University, 2021.

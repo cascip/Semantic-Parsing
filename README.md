@@ -206,6 +206,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 ## Papers about Semantic Parsing
 (ordered by year)
 ### 2021
+1. **Memory-Based Semantic Parsing**  
+[[paper](https://aclanthology.org/2021.tacl-1.71.pdf)]  
+*Parag Jain, Mirella Lapata.* TACL-2021.
+
 1. **Total Recall: a Customized Continual Learning Method for Neural Semantic Parsers**  
 [[paper](https://aclanthology.org/2021.emnlp-main.310.pdf)] [[code](https://github.com/zhuang-li/cl_nsp)]  
 *Zhuang Li, Lizhen Qu, Gholamreza Haffari.* EMNLP-2021.

@@ -773,7 +773,7 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 *Maxim Rabinovich, Mitchell Stern, Dan Klein.* ACL-2017.
 
 1. **Semantic Parsing of Pre-university Math Problems**  
-[[paper](https://www.aclweb.org/anthology/P17-1195)] [[slides]()] [[code]()]  
+[[paper](https://www.aclweb.org/anthology/P17-1195)]  
 *Takuya Matsuzaki, Takumi Ito, Hidenao Iwane, Hirokazu Anai, Noriko H. Arai.* ACL-2017.
 
 1. **Neural Architectures for Multilingual Semantic Parsing**  

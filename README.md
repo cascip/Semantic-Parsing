@@ -205,6 +205,91 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 
 ## Papers about Semantic Parsing
 (ordered by year)
+### 2022
+1. **KaFSP: Knowledge-Aware Fuzzy Semantic Parsing for Conversational Question Answering over a Large-Scale Knowledge Base**  
+[[paper](https://aclanthology.org/2022.acl-long.35.pdf)] [[code](https://github.com/tjunlp-lab/KaFSP)]  
+*Junzhuo Li, Deyi Xiong.* ACL-2022.
+
+1. **On The Ingredients of an Effective Zero-shot Semantic Parser**  
+[[paper](https://aclanthology.org/2022.acl-long.103.pdf)] [[code](https://pcyin.me/zeroshot_parser/)]  
+*Pengcheng Yin, John Wieting, Avirup Sil, Graham Neubig.* ACL-2022.
+
+1. **Online Semantic Parsing for Latency Reduction in Task-Oriented Dialogue**  
+[[paper](https://aclanthology.org/2022.acl-long.110.pdf)] [[code](https://github.com/microsoft/online-semantic-parsing-for-latency-reduction)]  
+*Jiawei Zhou, Jason Eisner, Michael Newman, Emmanouil Antonios Platanios, Sam Thomson.* ACL-2022.
+
+1. **Fully-Semantic Parsing and Generation: the BabelNet Meaning Representation**  
+[[paper](https://aclanthology.org/2022.acl-long.121.pdf)] [[code](https://github.com/sapienzanlp/bmr)]  
+*Abelardo Carlos Martínez Lorenzo, Marco Maru, Roberto Navigli.* ACL-2022.
+
+1. **LAGr: Label Aligned Graphs for Better Systematic Generalization in Semantic Parsing**  
+[[paper](https://aclanthology.org/2022.acl-long.233.pdf)] [[code](https://github.com/elementai/lagr)]  
+*Dora Jambor, Dzmitry Bahdanau.* ACL-2022.
+
+1. **Zero-Shot Cross-lingual Semantic Parsing**  
+[[paper](https://aclanthology.org/2022.acl-long.285.pdf)] [[code](https://github.com/tomsherborne/zx-parse)]  
+*Tom Sherborne, Mirella Lapata.* ACL-2022.
+
+1. **Learning to Generate Programs for Table Fact Verification via Structure-Aware Semantic Parsing**  
+[[paper](https://aclanthology.org/2022.acl-long.525.pdf)] [[code](https://github.com/ousuixin/sasp)]  
+*Suixin Ou, Yongmei Liu.* ACL-2022.
+
+1. **The Power of Prompt Tuning for Low-Resource Semantic Parsing**  
+[[paper](https://aclanthology.org/2022.acl-short.17.pdf)]  
+*Nathan Schucher, Siva Reddy, Harm de Vries.* ACL-2022.
+
+1. **Towards Robustness of Text-to-SQL Models Against Natural and Realistic Adversarial Table Perturbation**  
+[[paper](https://aclanthology.org/2022.acl-long.142.pdf)] [[code](https://github.com/microsoft/ContextualSP)]  
+*Xinyu Pi, Bing Wang, Yan Gao, Jiaqi Guo, Zhoujun Li, Jian-Guang Lou.* ACL-2022.
+
+1. **Bridging the Generalization Gap in Text-to-SQL Parsing with Schema Expansion**  
+[[paper](https://aclanthology.org/2022.acl-long.381.pdf)] [[code](https://github.com/microsoft/text-to-sql-schema-expansion-generalization)]  
+*Chen Zhao, Yu Su, Adam Pauls, Emmanouil Antonios Platanios.* ACL-2022.
+
+1. **Modeling Multi-hop Question Answering as Single Sequence Prediction**  
+[[paper](https://aclanthology.org/2022.acl-long.69.pdf)]  
+*Semih Yavuz, Kazuma Hashimoto, Yingbo Zhou, Nitish Shirish Keskar, Caiming Xiong.* ACL-2022.
+
+1. **Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering**  
+[[paper](https://aclanthology.org/2022.acl-long.396.pdf)] [[code](https://github.com/RUCKBReasoning/SubgraphRetrievalKBQA)]  
+*Jing Zhang, Xiaokang Zhang, Jifan Yu, Jian Tang, Jie Tang, Cuiping Li, Hong Chen.* ACL-2022.
+
+1. **RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering**  
+[[paper](https://aclanthology.org/2022.acl-long.417.pdf)] [[code](https://github.com/salesforce/rng-kbqa)]  
+*Xi Ye, Semih Yavuz, Kazuma Hashimoto, Yingbo Zhou, Caiming Xiong.* ACL-2022.
+
+1. **Leveraging Explicit Lexico-logical Alignments in Text-to-SQL Parsing**  
+[[paper](https://aclanthology.org/2022.acl-short.31.pdf)]  
+*Runxin Sun, Shizhu He, Chong Zhu, Yaohan He, Jinlong Li, Jun Zhao, Kang Liu.* ACL-short-2022.
+
+1. **S^2SQL: Injecting Syntax to Question-Schema Interaction Graph Encoder for Text-to-SQL Parsers**  
+[[paper](https://aclanthology.org/2022.findings-acl.99.pdf)]  
+*Binyuan Hui, Ruiying Geng, Lihan Wang, Bowen Qin, Yanyang Li, Bowen Li, Jian Sun, Yongbin Li.* ACL-findings-2022.
+
+1. **Guided K-best Selection for Semantic Parsing Annotation**  
+[[paper](https://aclanthology.org/2022.acl-demo.11.pdf)] [[demo](https://www.youtube.com/watch?v=AtbCCYxjKIY)]  
+*Anton Belyy, Chieh-yang Huang, Jacob Andreas, Emmanouil Antonios Platanios, Sam Thomson, Richard Shin, Subhro Roy, Aleksandr Nisnevich, Charles Chen, Benjamin Van Durme.* ACL-demo-2022.
+
+1. **Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction**  
+[[paper](https://aclanthology.org/2022.findings-acl.28.pdf)] [[code](https://github.com/molingbo/INSPIRED)]  
+*Lingbo Mo, Ashley Lewis, Huan Sun, Michael White.* ACL-findings-2022.
+
+1. **HIE-SQL: History Information Enhanced Network for Context-Dependent Text-to-SQL Semantic Parsing**  
+[[paper](https://aclanthology.org/2022.findings-acl.236.pdf)]  
+*Yanzhao Zheng, Haibin Wang, Baohua Dong, Xingjun Wang, Changshan Li.* ACL-findings-2022.
+
+1. **Addressing Resource and Privacy Constraints in Semantic Parsing Through Data Augmentation**  
+[[paper](https://aclanthology.org/2022.findings-acl.291.pdf)]  
+*Kevin Yang, Olivia Deng, Charles Chen, Richard Shin, Subhro Roy, Benjamin Van Durme.* ACL-findings-2022.
+
+1. **A Few-Shot Semantic Parser for Wizard-of-Oz Dialogues with the Precise ThingTalk Representation**  
+[[paper](https://aclanthology.org/2022.findings-acl.317.pdf)] [[code](https://wiki.almond.stanford.edu/releases)]  
+*Giovanni Campagna, Sina Semnani, Ryan Kearns, Lucas Jun Koba Sato, Silei Xu, Monica Lam.* ACL-findings-2022.
+
+1. **Towards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty**  
+[[paper](https://aclanthology.org/2022.findings-acl.328.pdf)]  
+*Zi Lin, Jeremiah Zhe Liu, Jingbo Shang.* ACL-findings-2022.
+
 ### 2021
 1. **Memory-Based Semantic Parsing**  
 [[paper](https://aclanthology.org/2021.tacl-1.71.pdf)]  
